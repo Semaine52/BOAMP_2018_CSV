@@ -1,0 +1,2773 @@
+BOAMP_AVIS_NUM,D_03_01_Typepouvoiradjudicateur_Minautoritenationale,D_03_02_Typepouvoiradjudicateur_Agencenational,D_03_03_Typepouvoiradjudicateur_Autotriteregional,D_03_04_Typepouvoiradjudicateur_Agenceregional,D_03_05_Typepouvoiradjudicateur_Orgdroitpublic,D_03_06_Typepouvoiradjudicateur_Institutioneuropeenne,D_03_07_Typepouvoiradjudicateur_Autre
+16-139311,False,False,False,False,False,False,Commune
+17-130395,False,False,False,False,False,False,SAEM
+17-182842,False,False,False,False,False,False,EPCI
+18-100339,False,False,False,False,True,False,
+18-104720,True,False,False,False,False,False,
+18-108872,False,False,True,False,False,False,
+18-110911,True,False,False,False,False,False,
+18-111301,False,False,False,False,False,False,Collectivité territoriale à statut particulier
+18-113714,False,False,True,False,False,False,
+18-115094,False,False,False,False,True,False,
+18-117077,False,False,False,True,False,False,
+18-118310,False,False,True,False,False,False,
+18-120909,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+18-122064,True,False,False,False,False,False,
+18-122073,False,False,True,False,False,False,
+18-126310,False,False,True,False,False,False,
+18-126982,False,True,False,False,False,False,
+18-127068,False,False,True,False,False,False,
+18-127237,True,False,False,False,False,False,
+18-128736,False,False,True,False,False,False,
+18-129184,False,False,True,False,False,False,
+18-130452,False,False,False,False,True,False,
+18-130673,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+18-130685,False,False,True,False,False,False,
+18-130689,False,False,True,False,False,False,
+18-131060,False,False,False,False,False,False,Organisme de droit privé de la MSA
+18-131686,False,False,False,False,False,False,Société d'Economie Mixte
+18-132219,False,False,True,False,False,False,
+18-133995,False,False,True,False,False,False,
+18-134302,False,False,False,False,True,False,
+18-134313,False,False,True,False,False,False,
+18-135189,False,False,True,False,False,False,
+18-137051,False,False,True,False,False,False,
+18-137093,False,False,False,False,True,False,
+18-137238,False,False,True,False,False,False,
+18-137504,False,False,False,False,True,False,
+18-138807,False,False,True,False,False,False,
+18-140260,False,False,False,False,False,False,EPST
+18-140448,False,False,False,False,False,False,
+18-140656,False,False,True,False,False,False,
+18-141822,False,False,True,False,False,False,
+18-141960,False,False,False,False,False,False,Société d'Economie Mixte
+18-142195,False,False,False,False,False,False,collectivité territoriale
+18-142237,False,False,False,False,False,False,collectivité territoriale
+18-142272,True,False,False,False,False,False,
+18-142423,False,False,False,False,False,False,collectivité territoriale
+18-142769,True,False,False,False,False,False,
+18-142772,True,False,False,False,False,False,
+18-143097,True,False,False,False,False,False,
+18-143198,False,False,False,False,False,False,OPH
+18-143316,False,False,True,False,False,False,
+18-143404,False,False,False,False,True,False,
+18-143728,False,False,False,False,True,False,
+18-144155,True,False,False,False,False,False,
+18-144226,False,False,True,False,False,False,
+18-144335,False,False,False,False,True,False,
+18-144336,False,False,False,False,False,False,Collectivité territoriale à statut particulier
+18-145159,False,False,True,False,False,False,
+18-145214,False,False,True,False,False,False,
+18-145409,True,False,False,False,False,False,
+18-145862,False,False,False,False,False,False,Université
+18-146000,True,False,False,False,False,False,
+18-146242,False,False,False,False,True,False,
+18-146901,False,False,True,False,False,False,
+18-147349,False,False,False,False,True,False,
+18-147404,False,False,False,False,False,False,Etablissement public de coopération intercommunale.
+18-148682,False,False,True,False,False,False,
+18-148695,False,False,True,False,False,False,
+18-149052,False,False,False,True,False,False,
+18-149295,False,False,False,False,False,False,syndicat mixte
+18-149830,False,False,False,False,True,False,
+18-149901,False,False,True,False,False,False,
+18-150503,False,False,False,False,False,False,Assemblée parlementaire
+18-151012,False,False,True,False,False,False,
+18-151101,True,False,False,False,False,False,
+18-151292,False,False,True,False,False,False,
+18-151402,False,False,False,False,True,False,
+18-151510,False,False,True,False,False,False,
+18-151995,True,False,False,False,False,False,
+18-152006,False,False,False,False,False,False,Collectivité territoriale
+18-152123,True,False,False,False,False,False,
+18-152126,False,False,True,False,False,False,
+18-152155,False,False,False,False,True,False,
+18-152265,False,False,False,False,False,False,Collectivité territoriale à statut particulier
+18-152442,False,False,False,False,False,False,Commune de Saint-Benoît
+18-152812,False,False,True,False,False,False,
+18-152961,False,False,False,False,True,False,
+18-153635,False,False,True,False,False,False,
+18-153649,False,False,True,False,False,False,
+18-153833,False,False,False,False,True,False,
+18-153950,False,False,False,False,False,False,Organisme de sécurité sociale
+18-154117,False,False,True,False,False,False,
+18-154162,False,False,False,False,False,False,Syndicat
+18-154492,False,False,False,False,False,False,Communauté de communes
+18-154510,False,False,True,False,False,False,
+18-154629,False,False,True,False,False,False,
+18-155071,False,False,False,False,True,False,
+18-155136,False,False,False,False,False,False,Protection sociale
+18-155448,False,False,True,False,False,False,
+18-155654,False,False,False,False,True,False,
+18-155695,False,False,True,False,False,False,
+18-155743,False,False,False,False,True,False,
+18-155745,False,False,False,False,False,False,Collectivité territoriale
+18-155790,False,False,False,False,True,False,
+18-155800,False,False,False,False,True,False,
+18-156218,False,False,True,False,False,False,
+18-156241,True,False,False,False,False,False,
+18-156367,True,False,False,False,False,False,
+18-156377,False,False,True,False,False,False,
+18-156469,False,False,False,True,False,False,
+18-156705,False,False,False,False,False,False,chu
+18-156714,False,False,False,False,True,False,
+18-156718,False,False,False,False,False,False,Collectivité territoriale
+18-156804,False,False,False,False,True,False,
+18-156928,False,False,True,False,False,False,
+18-157190,False,False,True,False,False,False,
+18-157209,False,False,True,False,False,False,
+18-157653,False,False,True,False,False,False,
+18-157799,False,False,False,False,False,False,Organisme de droit privé de la MSA
+18-157843,False,False,False,False,False,False,collectivité territoriale à statut particulier
+18-157855,False,False,True,False,False,False,
+18-157904,False,False,False,False,False,False,Organisme de droit privé de la MSA
+18-158247,False,False,True,False,False,False,
+18-158414,True,False,False,False,False,False,
+18-158505,False,False,True,False,False,False,
+18-158551,False,False,True,False,False,False,
+18-158581,False,False,False,False,False,False,collectivité territoriale à statut particulier
+18-158764,False,False,False,False,True,False,
+18-159079,False,False,True,False,False,False,
+18-159088,False,False,True,False,False,False,
+18-159403,False,False,True,False,False,False,
+18-159427,False,False,True,False,False,False,
+18-159672,False,False,True,False,False,False,
+18-159735,False,False,True,False,False,False,
+18-159984,False,False,False,False,True,False,
+18-160038,False,False,True,False,False,False,
+18-160307,False,False,True,False,False,False,
+18-160422,False,False,True,False,False,False,
+18-160512,False,False,True,False,False,False,
+18-160650,False,False,False,False,False,False,EPIC
+18-160709,False,False,True,False,False,False,
+18-160764,False,False,True,False,False,False,
+18-161047,False,False,True,False,False,False,
+18-161111,False,False,False,False,True,False,
+18-161141,True,False,False,False,False,False,
+18-161227,False,False,False,False,True,False,
+18-161259,False,False,False,False,True,False,
+18-161291,False,False,False,False,True,False,
+18-161368,True,False,False,False,False,False,
+18-161399,False,False,False,False,False,False,Normandie Participations
+18-161429,False,False,True,False,False,False,
+18-161477,False,False,False,False,False,False,collectivité territoriale à statut particulier
+18-161529,True,False,False,False,False,False,
+18-161780,False,False,False,False,True,False,
+18-161810,False,False,True,False,False,False,
+18-161836,False,False,True,False,False,False,
+18-161891,False,False,True,False,False,False,
+18-161992,False,True,False,False,False,False,
+18-162045,True,False,False,False,False,False,
+18-162101,False,False,True,False,False,False,
+18-162137,False,False,False,False,False,False,Syndicat mixte
+18-162144,False,False,True,False,False,False,
+18-162174,False,False,True,False,False,False,
+18-162210,False,False,False,False,False,False,établissement public local
+18-162211,True,False,False,False,False,False,
+18-162402,False,False,True,False,False,False,
+18-162485,True,False,False,False,False,False,
+18-162516,False,True,False,False,False,False,
+18-162521,False,False,False,False,True,False,
+18-162563,False,False,True,False,False,False,
+18-162578,True,False,False,False,False,False,
+18-162582,True,False,False,False,False,False,
+18-162657,True,False,False,False,False,False,
+18-162675,False,False,True,False,False,False,
+18-162727,True,False,False,False,False,False,
+18-162731,False,True,False,False,False,False,
+18-162761,False,False,True,False,False,False,
+18-162789,False,False,True,False,False,False,
+18-162791,False,False,True,False,False,False,
+18-162803,True,False,False,False,False,False,
+18-162806,True,False,False,False,False,False,
+18-162863,True,False,False,False,False,False,
+18-162927,False,False,True,False,False,False,
+18-163215,True,False,False,False,False,False,
+18-163299,False,False,False,False,False,False,Collectivité territoriale à statut particulier
+18-163516,True,False,False,False,False,False,
+18-163528,False,False,False,False,False,False,établissement public local
+18-163562,False,False,False,False,True,False,
+18-163567,False,False,True,False,False,False,
+18-163627,True,False,False,False,False,False,
+18-163740,False,False,False,False,False,False,SA HLM
+18-163749,False,False,True,False,False,False,
+18-163851,True,False,False,False,False,False,
+18-163879,False,False,True,False,False,False,
+18-164049,False,False,True,False,False,False,
+18-164067,False,False,True,False,False,False,
+18-164079,False,False,False,True,False,False,
+18-164092,False,False,True,False,False,False,
+18-164215,False,False,True,False,False,False,
+18-164219,False,False,False,False,False,False,Collectivité territoriale
+18-164282,False,False,False,False,False,False,autorité organisatrice des transports
+18-164552,False,False,True,False,False,False,
+18-164559,False,False,True,False,False,False,
+18-164572,False,False,True,False,False,False,
+18-164634,False,False,True,False,False,False,
+18-164760,False,False,False,False,False,False,Etablissement Public de Santé
+18-164874,False,False,True,False,False,False,
+18-164875,False,False,True,False,False,False,
+18-164950,False,False,True,False,False,False,
+18-164990,False,False,True,False,False,False,
+18-165168,False,False,True,False,False,False,
+18-165180,False,False,False,False,False,False,EPCI
+18-165182,False,False,True,False,False,False,
+18-165209,False,False,False,False,False,False,syndicat mixte
+18-165271,False,False,True,False,False,False,
+18-165313,False,False,True,False,False,False,
+18-165320,False,False,True,False,False,False,
+18-165346,False,False,True,False,False,False,
+18-165360,False,False,False,False,False,False,Collectivité territoriale à statuts particuliers
+18-165396,False,False,True,False,False,False,
+18-165405,False,False,False,False,False,False,Assemblée parlementaire
+18-165426,False,False,False,False,False,False,Assemblée parlementaire
+18-165475,False,False,True,False,False,False,
+18-165496,False,False,False,False,True,False,
+18-165509,False,False,False,False,False,False,"Aménagement, gestion, promotion et animation de l'espace public"
+18-165520,True,False,False,False,False,False,
+18-165531,False,False,True,False,False,False,
+18-165624,False,False,True,False,False,False,
+18-165659,False,False,False,False,False,False,société anonyme d'économie mixte locale.
+18-165672,False,False,False,False,False,False,OPH
+18-165676,False,False,False,False,True,False,
+18-165877,False,False,True,False,False,False,
+18-165926,False,False,False,False,False,False,Centre hospitalier
+18-165959,False,False,False,False,False,False,Collectivité territoriale à statut particulier
+18-165963,False,False,True,False,False,False,
+18-165996,False,False,True,False,False,False,
+18-165997,False,False,True,False,False,False,
+18-166010,True,False,False,False,False,False,
+18-166019,False,False,False,False,True,False,
+18-166057,False,False,True,False,False,False,
+18-166061,False,False,True,False,False,False,
+18-166082,False,False,True,False,False,False,
+18-166144,False,False,True,False,False,False,
+18-166149,False,False,True,False,False,False,
+18-166151,False,False,False,True,False,False,
+18-166154,False,False,False,False,True,False,
+18-166185,False,False,False,False,False,False,Autorité locale
+18-166190,False,False,False,False,False,False,SAEM
+18-166201,False,False,True,False,False,False,
+18-166205,False,False,True,False,False,False,
+18-166207,False,False,True,False,False,False,
+18-166255,False,False,True,False,False,False,
+18-166426,False,False,True,False,False,False,
+18-166441,False,False,True,False,False,False,
+18-166471,False,False,False,False,True,False,
+18-166472,False,False,True,False,False,False,
+18-166482,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+18-166488,True,False,False,False,False,False,
+18-166489,False,False,False,False,False,False,SA HLM
+18-166497,False,True,False,False,False,False,
+18-166502,False,False,True,False,False,False,
+18-166503,False,False,True,False,False,False,
+18-166505,False,False,True,False,False,False,
+18-166507,False,False,False,False,False,False,autre
+18-166510,False,False,False,False,False,False,Organisme de Sécurité Sociale
+18-166511,False,False,False,False,False,False,autre
+18-166514,True,False,False,False,False,False,
+18-166522,False,False,True,False,False,False,
+18-166527,True,False,False,False,False,False,
+18-166529,False,False,True,False,False,False,
+18-166530,False,False,False,False,False,False,centre hospitalier
+18-166537,True,False,False,False,False,False,
+18-166539,False,False,False,False,False,False,Etablissement public
+18-166542,False,False,True,False,False,False,
+18-166543,False,False,False,False,False,False,AMENAGEMENT URBAIN
+18-166544,False,False,True,False,False,False,
+18-166545,False,False,False,False,False,False,Centre Hospitalier Universitaire de Caen
+18-166547,False,False,False,False,True,False,
+18-166548,False,False,False,False,True,False,
+18-166550,False,False,True,False,False,False,
+18-166552,False,False,True,False,False,False,
+18-166553,False,False,True,False,False,False,
+18-166554,False,False,False,True,False,False,
+18-166555,False,False,True,False,False,False,
+18-166569,False,False,True,False,False,False,
+18-166571,False,False,False,False,False,False,Etablissement public de santé
+18-166573,False,False,False,False,True,False,
+18-166575,False,False,False,False,False,False,Groupement hospitalier de territoire
+18-166577,False,False,False,False,True,False,
+18-166580,False,False,True,False,False,False,
+18-166583,False,False,False,False,True,False,
+18-166591,False,False,True,False,False,False,
+18-166597,False,False,True,False,False,False,
+18-166600,False,False,False,False,True,False,
+18-166605,True,False,False,False,False,False,
+18-166607,False,False,True,False,False,False,
+18-166608,False,False,False,False,True,False,
+18-166612,False,False,True,False,False,False,
+18-166614,False,False,False,False,True,False,
+18-166617,False,False,False,False,True,False,
+18-166621,False,False,False,False,True,False,
+18-166625,True,False,False,False,False,False,
+18-166626,False,False,False,False,True,False,
+18-166627,True,False,False,False,False,False,
+18-166640,False,False,True,False,False,False,
+18-166641,False,False,False,False,True,False,
+18-166645,False,False,True,False,False,False,
+18-166646,False,False,True,False,False,False,
+18-166647,False,False,False,False,False,False,Syndicat intercommunal
+18-166649,False,False,True,False,False,False,
+18-166650,False,False,True,False,False,False,
+18-166655,False,False,False,False,True,False,
+18-166656,True,False,False,False,False,False,
+18-166658,False,False,False,False,True,False,
+18-166660,True,False,False,False,False,False,
+18-166664,False,False,False,False,False,False,Société anonyme d'économie mixte locale
+18-166665,False,False,True,False,False,False,
+18-166666,False,False,True,False,False,False,
+18-166667,False,False,False,False,False,False,Etablissement public à coopération intercommunale
+18-166668,False,False,False,False,True,False,
+18-166669,False,False,False,False,False,False,Etablissement public territorial
+18-166674,False,False,True,False,False,False,
+18-166675,False,False,False,True,False,False,
+18-166678,False,False,False,False,False,False,Etablissement public à coopération intercommunale
+18-166681,False,False,False,False,False,False,SEM
+18-166686,False,False,True,False,False,False,
+18-166688,False,False,False,False,False,False,Groupement hospitalier de territoire
+18-166693,False,False,False,False,False,False,Fondation
+18-166694,False,False,True,False,False,False,
+18-166695,False,False,True,False,False,False,
+18-166696,False,False,True,False,False,False,
+18-166698,False,False,True,False,False,False,
+18-166704,False,False,True,False,False,False,
+18-166707,False,False,False,False,False,False,établissement public de coopération intercommunale (EPCI)
+18-166709,False,False,True,False,False,False,
+18-166714,False,False,False,False,True,False,
+18-166717,False,False,True,False,False,False,
+18-166719,False,False,False,False,False,False,Etablissement public local
+18-166721,False,False,True,False,False,False,
+18-166722,False,False,True,False,False,False,
+18-166725,True,False,False,False,False,False,
+18-166732,False,False,True,False,False,False,
+18-166734,False,False,True,False,False,False,
+18-166735,True,False,False,False,False,False,
+18-166737,False,False,True,False,False,False,
+18-166739,False,False,True,False,False,False,
+18-166741,False,False,True,False,False,False,
+18-166743,False,False,False,False,False,False,Communauté de Communes
+18-166745,False,False,False,False,False,False,Etablissement Public de Santé
+18-166747,True,False,False,False,False,False,
+18-166749,True,False,False,False,False,False,
+18-166750,False,False,True,False,False,False,
+18-166751,False,False,False,False,False,False,Etablissement Public de santé
+18-166758,False,False,False,False,True,False,
+18-166760,False,False,True,False,False,False,
+18-166761,False,False,True,False,False,False,
+18-166762,False,False,True,False,False,False,
+18-166766,False,False,True,False,False,False,
+18-166767,False,False,True,False,False,False,
+18-166769,False,False,True,False,False,False,
+18-166772,False,False,True,False,False,False,
+18-166782,False,False,True,False,False,False,
+18-166783,False,False,False,False,False,False,organisme de securite sociale
+18-166786,False,False,True,False,False,False,
+18-166790,False,False,True,False,False,False,
+18-166791,True,False,False,False,False,False,
+18-166795,False,False,False,False,False,False,Collectivité territoriale
+18-166796,False,False,True,False,False,False,
+18-166797,False,False,False,False,True,False,
+18-166799,False,False,False,False,False,False,Palais consulaire
+18-166801,False,False,True,False,False,False,
+18-166805,False,False,False,False,True,False,
+18-166807,False,False,False,False,True,False,
+18-166809,False,False,False,False,True,False,
+18-166813,False,False,False,False,False,False,EPCI communauté dagglomération
+18-166814,False,False,False,False,True,False,
+18-166817,False,False,False,False,True,False,
+18-166819,False,False,False,True,False,False,
+18-166821,False,False,False,False,False,False,organisme de securite sociale
+18-166823,False,False,False,False,True,False,
+18-166824,False,False,False,False,True,False,
+18-166825,True,False,False,False,False,False,
+18-166828,False,False,False,False,True,False,
+18-166829,False,False,False,True,False,False,
+18-166833,False,False,False,True,False,False,
+18-166837,False,False,True,False,False,False,
+18-166838,False,False,True,False,False,False,
+18-166841,False,False,False,False,False,False,Etablissement Public Local
+18-166842,False,False,True,False,False,False,
+18-166843,False,False,False,False,True,False,
+18-166851,False,False,True,False,False,False,
+18-166856,False,False,True,False,False,False,
+18-166858,False,False,True,False,False,False,
+18-166861,False,False,False,False,False,False,Collectivité territoriale à statuts particuliers
+18-166866,False,False,False,False,True,False,
+18-166873,False,False,False,False,False,False,centre hospitalier
+18-166888,False,False,True,False,False,False,
+18-166889,False,False,False,False,True,False,
+18-166896,False,False,False,False,True,False,
+18-166899,False,False,True,False,False,False,
+18-166900,False,False,True,False,False,False,
+18-166904,False,False,True,False,False,False,
+18-166908,True,False,False,False,False,False,
+18-166909,False,False,True,False,False,False,
+18-166914,False,False,False,False,False,False,établissement intercommunal
+18-166915,True,False,False,False,False,False,
+18-166920,False,False,True,False,False,False,
+18-166924,False,False,True,False,False,False,
+18-166926,False,False,False,False,False,False,Communauté de communes
+18-166930,False,False,False,False,True,False,
+18-166934,False,False,True,False,False,False,
+18-166935,False,False,True,False,False,False,
+18-166937,False,False,False,True,False,False,
+18-166938,False,False,True,False,False,False,
+18-166941,False,False,True,False,False,False,
+18-166948,False,False,True,False,False,False,
+18-166951,False,False,True,False,False,False,
+18-166952,False,False,False,False,False,False,syndicat intercommunal
+18-166953,False,False,False,False,False,False,centre hospitalier
+18-166954,False,False,True,False,False,False,
+18-166957,False,False,False,False,True,False,
+18-166959,False,False,True,False,False,False,
+18-166960,False,False,False,False,True,False,
+18-166961,False,False,False,False,False,False,Société publique locale d'aménagement en vertu de l'article L320 du code de l'urbanisme
+18-166964,False,False,True,False,False,False,
+18-166967,False,False,False,False,False,False,collectivité territoriale
+18-166973,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+18-166977,True,False,False,False,False,False,
+18-166982,False,False,False,False,False,False,collectivité territoriale
+18-166983,False,True,False,False,False,False,
+18-166984,False,False,False,False,False,False,Etablissement public administratif
+18-166989,False,False,False,False,True,False,
+18-166990,False,False,False,False,False,False,Etablissement Public de Santé
+18-166992,False,False,True,False,False,False,
+18-166993,True,False,False,False,False,False,
+18-166994,False,False,True,False,False,False,
+18-166997,False,False,False,False,True,False,
+18-166998,False,False,False,False,False,False,Syndicat Mixte Départemental d'Etudes et de Traitement des Déchets Ménagers et Assimilés de la Vendée
+18-166999,False,False,False,False,True,False,
+18-167000,False,False,True,False,False,False,
+18-167002,False,False,True,False,False,False,
+18-167004,False,False,False,False,True,False,
+18-167005,False,False,False,False,True,False,
+18-167012,False,False,True,False,False,False,
+18-167015,False,False,False,True,False,False,
+18-167018,False,False,False,False,False,False,autre
+18-167020,False,False,True,False,False,False,
+18-167021,False,False,True,False,False,False,
+18-167022,False,False,False,False,False,False,Etablissement public
+18-167023,False,False,True,False,False,False,
+18-167030,False,False,False,False,True,False,
+18-167035,False,False,True,False,False,False,
+18-167040,False,False,True,False,False,False,
+18-167050,False,False,True,False,False,False,
+18-167055,False,False,False,False,False,False,Établissement public de coopération intercommunale
+18-167058,False,False,False,False,True,False,
+18-167059,False,False,True,False,False,False,
+18-167085,False,False,False,False,False,False,société d'économie Mixte
+18-167086,False,False,False,False,False,False,Etablissement Public de Santé (EPS)
+18-167105,False,False,True,False,False,False,
+18-167114,False,False,False,False,False,False,Electricité
+18-167120,False,False,True,False,False,False,
+18-167121,False,False,False,False,False,False,UEM
+18-167125,False,False,False,False,False,False,Etablissement Public de Santé
+18-167128,True,False,False,False,False,False,
+18-167133,False,False,False,False,True,False,
+18-167134,False,False,True,False,False,False,
+18-167136,False,False,True,False,False,False,
+18-167138,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+18-167142,False,False,False,False,True,False,
+18-167150,False,False,False,False,True,False,
+18-167152,False,False,False,False,True,False,
+18-167157,True,False,False,False,False,False,
+18-167158,False,False,True,False,False,False,
+18-167167,False,False,False,False,True,False,
+18-167170,False,False,False,False,False,False,Etablissement d'enseignement supérieur
+18-167171,False,False,False,True,False,False,
+18-167172,False,False,True,False,False,False,
+18-167173,False,False,False,False,True,False,
+18-167175,False,False,True,False,False,False,
+18-167176,True,False,False,False,False,False,
+18-167180,False,False,False,False,False,False,Syndicat Mixte Départemental d'Etudes et de Traitement des Déchets Ménagers et Assimilés de la Vendée
+18-167182,False,False,True,False,False,False,
+18-167183,False,False,False,False,True,False,
+18-167184,False,False,False,False,True,False,
+18-167189,False,False,False,True,False,False,
+18-167192,False,False,False,False,False,False,collectivité territoriale
+18-167193,False,False,False,False,True,False,
+18-167195,False,False,False,False,True,False,
+18-167197,False,False,True,False,False,False,
+18-167198,False,False,True,False,False,False,
+18-167199,False,False,False,False,False,False,EPCI
+18-167200,False,False,True,False,False,False,
+18-167202,False,False,True,False,False,False,
+18-167205,True,False,False,False,False,False,
+18-167206,False,False,False,False,True,False,
+18-167219,False,False,False,False,True,False,
+18-167223,False,False,False,False,True,False,
+18-167225,False,False,False,False,True,False,
+18-167228,False,False,True,False,False,False,
+18-167229,False,False,True,False,False,False,
+18-167231,False,False,True,False,False,False,
+18-167232,False,False,False,False,True,False,
+18-167233,False,False,False,False,False,False,ENSEIGNEMENT ET RECHERCHE
+18-167237,False,False,False,False,False,False,Centre hospitalier
+18-167238,True,False,False,False,False,False,
+18-167241,False,False,False,False,True,False,
+18-167242,False,False,False,False,True,False,
+18-167245,False,False,False,False,True,False,
+18-167246,False,False,True,False,False,False,
+18-167247,False,False,False,False,True,False,
+18-167248,True,False,False,False,False,False,
+18-167251,True,False,False,False,False,False,
+18-167256,False,False,False,True,False,False,
+18-167258,False,False,False,False,False,False,Organisme privé de sécurité sociale
+18-167265,False,False,False,False,False,False,Commune
+18-167266,False,False,False,True,False,False,
+18-167269,False,False,True,False,False,False,
+18-167274,False,False,False,False,False,False,INSTITUT NATIONAL DE RECHERCHE AGRONOMIQUE
+18-167276,False,False,False,True,False,False,
+18-167278,False,False,True,False,False,False,
+18-167281,True,False,False,False,False,False,
+18-167284,False,False,True,False,False,False,
+18-167286,False,False,False,False,False,False,collectivité territoriale
+18-167289,False,False,False,False,False,False,centre hospitalier
+18-167297,False,False,True,False,False,False,
+18-167299,False,False,False,False,False,False,Société publique locale
+18-167304,True,False,False,False,False,False,
+18-167306,False,False,True,False,False,False,
+18-167309,False,False,False,False,True,False,
+18-167310,False,False,True,False,False,False,
+18-167314,False,False,False,False,True,False,
+18-167317,False,False,True,False,False,False,
+18-167318,True,False,False,False,False,False,
+18-167322,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+18-167325,False,False,True,False,False,False,
+18-167326,True,False,False,False,False,False,
+18-167327,False,False,True,False,False,False,
+18-167328,False,False,False,False,True,False,
+18-167329,False,False,False,True,False,False,
+18-167335,True,False,False,False,False,False,
+18-167351,False,False,True,False,False,False,
+18-167352,False,False,True,False,False,False,
+18-167353,False,False,False,False,True,False,
+18-167354,False,False,False,False,False,False,autre
+18-167358,False,False,True,False,False,False,
+18-167360,False,False,False,False,True,False,
+18-167362,False,False,False,False,True,False,
+18-167363,False,False,False,False,True,False,
+18-167364,False,False,False,False,True,False,
+18-167365,False,False,False,False,True,False,
+18-167368,False,False,False,False,True,False,
+18-167369,False,False,False,False,False,False,Organisme privé de sécurité sociale
+18-167370,False,False,True,False,False,False,
+18-167374,False,False,False,False,False,False,Société d'aménagement
+18-167375,False,False,True,False,False,False,
+18-167376,False,False,False,False,True,False,
+18-167377,False,False,False,True,False,False,
+18-167378,False,False,False,False,False,False,Établissement public de coopération culturelle. Production et diffusion de spectacle vivant.
+18-167380,False,False,False,False,True,False,
+18-167381,False,False,False,False,True,False,
+18-167386,False,False,False,False,True,False,
+18-167388,False,False,False,False,True,False,
+18-167394,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+18-167397,False,False,False,False,False,False,Établissement public de coopération intercommunale
+18-167400,False,False,True,False,False,False,
+18-167401,False,False,False,False,False,False,Etablissement Public de Santé
+18-167403,True,False,False,False,False,False,
+18-167405,False,False,True,False,False,False,
+18-167407,False,False,True,False,False,False,
+18-167408,False,False,False,False,False,False,SA HLM
+18-167411,False,False,False,False,True,False,
+18-167412,False,False,False,False,True,False,
+18-167414,False,False,False,False,False,False,Etablissement de santé
+18-167415,False,False,False,False,False,False,Etablissement public de santé
+18-167416,False,False,True,False,False,False,
+18-167419,True,False,False,False,False,False,
+18-167420,False,False,False,False,True,False,
+18-167421,False,False,True,False,False,False,
+18-167422,False,False,False,False,True,False,
+18-167423,False,False,False,False,False,False,Etablissement Public Médico Social
+18-167425,False,False,False,False,True,False,
+18-167431,False,False,False,False,False,False,organisme de securite sociale
+18-167432,False,False,True,False,False,False,
+18-167433,False,False,True,False,False,False,
+18-167436,False,False,True,False,False,False,
+18-167443,False,False,True,False,False,False,
+18-167447,False,False,False,False,True,False,
+18-167452,False,False,False,False,False,False,EPCI
+18-167453,False,False,False,True,False,False,
+18-167456,False,False,False,False,False,False,Etablissement Public de santé
+18-167457,False,False,True,False,False,False,
+18-167460,False,False,False,False,False,False,Syndicat Mixte Fermé
+18-167465,False,False,True,False,False,False,
+18-167471,False,False,False,False,True,False,
+18-167473,False,False,False,False,True,False,
+18-167475,False,False,True,False,False,False,
+18-167476,False,False,True,False,False,False,
+18-167480,False,False,False,False,True,False,
+18-167481,False,False,True,False,False,False,
+18-167482,True,False,False,False,False,False,
+18-167486,False,False,True,False,False,False,
+18-167489,False,False,True,False,False,False,
+18-167490,False,False,True,False,False,False,
+18-167492,False,False,True,False,False,False,
+18-167493,False,False,True,False,False,False,
+18-167497,False,False,True,False,False,False,
+18-167498,False,False,True,False,False,False,
+18-167501,False,False,False,False,True,False,
+18-167502,True,False,False,False,False,False,
+18-167505,False,False,True,False,False,False,
+18-167509,False,False,False,False,True,False,
+18-167510,False,False,False,False,True,False,
+18-167513,False,False,True,False,False,False,
+18-167514,False,False,True,False,False,False,
+18-167515,False,False,False,False,True,False,
+18-167517,False,False,True,False,False,False,
+18-167518,False,False,True,False,False,False,
+18-167523,False,False,False,False,True,False,
+18-167527,False,False,True,False,False,False,
+18-167531,False,False,False,False,False,False,Syndicat Mixte Départemental d'Etudes et de Traitement des Déchets Ménagers et Assimilés de la Vendée
+18-167532,False,False,False,False,False,False,autre
+18-167535,False,False,True,False,False,False,
+18-167536,False,False,True,False,False,False,
+18-167537,False,False,False,False,True,False,
+18-167539,False,False,True,False,False,False,
+18-167541,False,False,True,False,False,False,
+18-167542,False,False,False,False,False,False,Société Publique d'Aménagement
+18-167543,False,False,True,False,False,False,
+18-167544,False,False,False,False,True,False,
+18-167545,False,False,False,False,True,False,
+18-167546,False,False,False,False,True,False,
+18-167555,True,False,False,False,False,False,
+18-167557,False,False,True,False,False,False,
+18-167560,False,False,False,False,False,False,INRA Centre Pays de la Loire rue de la Géraudière CS 71627 44316 NANTES
+18-167563,False,False,False,False,False,False,université
+18-167564,False,False,True,False,False,False,
+18-167567,False,False,False,False,False,False,Mairie
+18-167571,False,False,True,False,False,False,
+18-167574,False,False,False,False,True,False,
+18-167575,False,False,False,False,False,False,Université
+18-167577,False,False,False,False,True,False,
+18-167583,False,False,False,False,False,False,organisme privé de sécurité sociale
+18-167584,False,False,False,False,True,False,
+18-167585,False,False,True,False,False,False,
+18-167586,False,False,True,False,False,False,
+18-167598,False,False,True,False,False,False,
+18-167601,False,False,False,False,False,False,autre
+18-167606,False,False,True,False,False,False,
+18-167612,False,False,True,False,False,False,
+18-167616,False,False,True,False,False,False,
+18-167617,False,False,True,False,False,False,
+18-167619,False,False,True,False,False,False,
+18-167620,False,False,True,False,False,False,
+18-167623,False,False,True,False,False,False,
+18-167624,False,False,False,False,False,False,EPC / EHPAD
+18-167625,False,False,True,False,False,False,
+18-167626,False,False,True,False,False,False,
+18-167631,False,False,True,False,False,False,
+18-167633,False,False,False,False,True,False,
+18-167635,False,False,False,True,False,False,
+18-167641,False,False,True,False,False,False,
+18-167643,False,False,False,False,False,False,Établissement Public de Santé
+18-167648,False,False,False,False,True,False,
+18-167650,False,False,True,False,False,False,
+18-167651,False,True,False,False,False,False,
+18-167655,False,False,True,False,False,False,
+18-167656,False,False,False,False,True,False,
+18-167657,False,False,True,False,False,False,
+18-167658,False,False,False,False,True,False,
+18-167664,True,False,False,False,False,False,
+18-167665,False,False,True,False,False,False,
+18-167671,False,False,True,False,False,False,
+18-167675,False,False,True,False,False,False,
+18-167679,False,False,False,False,True,False,
+18-167683,False,False,True,False,False,False,
+18-167684,False,False,False,False,False,False,autre
+18-167689,False,False,True,False,False,False,
+18-167692,False,False,True,False,False,False,
+18-167694,False,False,False,False,False,False,Etablissement Public de coopération intercommunale
+18-167697,False,False,False,False,False,False,Association loi 1901 sous le haut patronage du Ministère en charge de la Santé.
+18-167698,False,False,False,False,False,False,Enseignement supérieur et recherche
+18-167707,False,False,True,False,False,False,
+18-167708,False,False,False,False,True,False,
+18-167709,False,False,False,False,True,False,
+18-167711,False,False,False,False,True,False,
+18-167716,False,False,True,False,False,False,
+18-167717,False,False,False,False,False,False,Société d'Economie Mixte ou une Société Publique Locale
+18-167718,False,False,True,False,False,False,
+18-167719,False,False,True,False,False,False,
+18-167723,False,False,True,False,False,False,
+18-167725,False,False,False,False,True,False,
+18-167730,True,False,False,False,False,False,
+18-167736,False,False,True,False,False,False,
+18-167741,False,False,False,False,False,False,Aménagement et Construction
+18-167750,False,False,False,True,False,False,
+18-167786,False,False,False,False,False,False,Syndicat de communes
+18-167835,False,False,False,False,True,False,
+18-167843,False,False,False,False,False,False,Organisme de droit privé
+18-167845,False,False,False,False,False,False,Communauté de Communes
+18-167854,False,False,False,False,False,False,Etablissement Public de coopération intercommunale
+18-167855,False,False,True,False,False,False,
+18-167866,False,False,True,False,False,False,
+18-167870,False,False,False,False,True,False,
+18-167871,False,False,True,False,False,False,
+18-167879,False,False,True,False,False,False,
+18-167882,False,False,True,False,False,False,
+18-167884,False,False,False,False,True,False,
+18-167885,False,False,True,False,False,False,
+18-167886,False,False,True,False,False,False,
+18-167890,False,False,True,False,False,False,
+18-167891,False,False,True,False,False,False,
+18-167893,False,False,True,False,False,False,
+18-167899,False,False,True,False,False,False,
+18-167900,False,False,True,False,False,False,
+18-167905,False,False,True,False,False,False,
+18-167906,False,False,False,False,True,False,
+18-167907,False,False,False,False,True,False,
+18-167908,False,False,False,False,False,False,"Aménagement, gestion, promotion et animation de l'espace public"
+18-167914,False,False,False,False,False,False,collectivité territoriale à statut particulier
+18-167921,False,False,False,False,True,False,
+18-167922,False,False,False,False,False,False,Centre hospitalier
+18-167927,False,False,False,False,True,False,
+18-167929,False,False,False,False,False,False,HLM
+18-167931,False,False,False,False,False,False,Centrale d'achats
+18-167933,True,False,False,False,False,False,
+18-167937,False,False,False,False,True,False,
+18-167939,False,False,True,False,False,False,
+18-167943,False,False,False,False,True,False,
+18-167944,False,False,False,False,False,False,Groupement hospitalier de territoire
+18-167946,False,False,True,False,False,False,
+18-167955,False,False,False,False,False,False,Collectivité territoriale
+18-167958,False,False,True,False,False,False,
+18-167961,True,False,False,False,False,False,
+18-167962,False,False,False,False,False,False,collectivité à statut particulier
+18-167963,False,False,True,False,False,False,
+18-167966,False,False,True,False,False,False,
+18-167967,False,False,True,False,False,False,
+18-167969,False,False,True,False,False,False,
+18-167979,False,False,True,False,False,False,
+18-167980,False,False,False,False,True,False,
+18-167984,False,False,False,False,False,False,autre
+18-167988,False,False,True,False,False,False,
+18-167990,False,False,True,False,False,False,
+18-167991,True,False,False,False,False,False,
+18-167995,False,False,False,True,False,False,
+18-167998,False,False,False,False,True,False,
+18-168002,False,False,False,False,True,False,
+18-168004,False,False,False,False,False,False,Société publique locale
+18-168005,False,False,True,False,False,False,
+18-168006,False,False,False,False,True,False,
+18-168008,True,False,False,False,False,False,
+18-168011,False,False,False,False,True,False,
+18-168015,True,False,False,False,False,False,
+18-168017,False,False,False,False,False,False,SAEM
+18-168019,False,False,False,False,False,False,Organisme de sécurité sociale
+18-168022,True,False,False,False,False,False,
+18-168024,False,False,True,False,False,False,
+18-168031,True,False,False,False,False,False,
+18-168035,False,False,True,False,False,False,
+18-168036,True,False,False,False,False,False,
+18-168037,False,False,False,False,False,False,Régulation - Energie
+18-168039,False,False,True,False,False,False,
+18-168041,False,False,False,False,False,False,Etablissement public de santé
+18-168043,True,False,False,False,False,False,
+18-168045,False,False,False,False,True,False,
+18-168050,False,False,False,False,False,False,Santé
+18-168053,True,False,False,False,False,False,
+18-168054,False,False,True,False,False,False,
+18-168061,False,False,False,False,True,False,
+18-168062,False,False,False,False,True,False,
+18-168070,False,False,False,False,True,False,
+18-168073,False,False,False,False,False,False,autre
+18-168074,False,False,True,False,False,False,
+18-168076,False,False,True,False,False,False,
+18-168078,False,False,True,False,False,False,
+18-168081,False,False,False,False,False,False,Etablissement public à caractère administratif
+18-168082,False,False,False,False,True,False,
+18-168083,False,False,True,False,False,False,
+18-168084,False,False,False,False,True,False,
+18-168086,False,False,False,False,False,False,Etablissement public de santé
+18-168090,False,False,True,False,False,False,
+18-168104,False,False,False,False,True,False,
+18-168113,False,False,False,False,False,False,Formation professionnelle
+18-168115,True,False,False,False,False,False,
+18-168116,True,False,False,False,False,False,
+18-168117,True,False,False,False,False,False,
+18-168119,False,False,True,False,False,False,
+18-168120,False,False,True,False,False,False,
+18-168123,False,False,True,False,False,False,
+18-168125,False,False,False,False,False,False,Etablissement public de santé
+18-168126,False,False,True,False,False,False,
+18-168127,False,False,True,False,False,False,
+18-168128,True,False,False,False,False,False,
+18-168130,False,False,False,False,True,False,
+18-168132,False,False,False,False,False,False,autre
+18-168135,False,False,False,False,False,False,Groupement hospitalier de territoire
+18-168143,False,False,False,False,True,False,
+18-168149,False,False,True,False,False,False,
+18-168153,False,False,False,False,True,False,
+18-168156,False,False,False,False,False,False,Autre organisme public
+18-168161,False,False,False,False,True,False,
+18-168164,False,False,True,False,False,False,
+18-168165,False,False,True,False,False,False,
+18-168169,False,False,False,False,False,False,syndicat mixte ouvert
+18-168170,False,False,False,False,True,False,
+18-168173,False,False,True,False,False,False,
+18-168174,False,False,False,False,False,False,EPSCP
+18-168178,False,False,False,False,False,False,Mairie de Paris
+18-168179,False,False,False,False,False,False,Etablissement public de santé
+18-168180,True,False,False,False,False,False,
+18-168181,False,False,False,False,True,False,
+18-168183,False,False,True,False,False,False,
+18-168187,False,False,False,False,True,False,
+18-168189,False,False,False,False,False,False,Association loi 1901
+18-168190,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+18-168191,False,False,False,False,True,False,
+18-168193,False,False,False,False,False,False,Organisme privé gérant un service public.
+18-168198,False,False,False,False,True,False,
+18-168200,False,False,False,False,True,False,
+18-168204,False,False,False,False,False,False,centre hospitalier
+18-168208,False,False,True,False,False,False,
+18-168209,False,False,False,False,False,False,Etablissement public de santé
+18-168210,True,False,False,False,False,False,
+18-168214,False,False,False,False,False,False,EPSCP
+18-168215,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+18-168216,False,True,False,False,False,False,
+18-168217,False,False,True,False,False,False,
+18-168222,False,False,False,False,True,False,
+18-168228,False,False,False,False,False,False,Société d'Economie Mixte
+18-168229,False,False,True,False,False,False,
+18-168230,False,False,True,False,False,False,
+18-168231,False,False,True,False,False,False,
+18-168233,False,False,True,False,False,False,
+18-168234,False,False,False,False,False,False,syndicat mixte
+18-168235,False,False,False,False,True,False,
+18-168238,True,False,False,False,False,False,
+18-168239,False,False,False,False,True,False,
+18-168240,False,False,False,False,False,False,autre
+18-168242,False,False,True,False,False,False,
+18-168243,False,False,False,False,False,False,Service départemental d'incendie et de secours
+18-168246,False,False,True,False,False,False,
+18-168251,False,False,True,False,False,False,
+18-168254,False,False,True,False,False,False,
+18-168256,False,False,True,False,False,False,
+18-168260,False,False,True,False,False,False,
+18-168265,False,False,False,False,False,False,Etablissement public administratif
+18-168273,False,False,True,False,False,False,
+18-168275,False,False,True,False,False,False,
+18-168278,False,False,False,False,True,False,
+18-168279,False,False,False,False,True,False,
+18-168283,False,False,False,False,True,False,
+18-168284,False,False,False,False,False,False,Association loi 1901 sous le haut patronage du Ministère en charge de la Santé.
+18-168287,False,False,True,False,False,False,
+18-168295,False,False,True,False,False,False,
+18-168300,False,False,True,False,False,False,
+18-168301,False,False,False,False,True,False,
+18-168302,False,False,True,False,False,False,
+18-168308,False,False,True,False,False,False,
+18-168309,False,False,True,False,False,False,
+18-168314,False,False,True,False,False,False,
+18-168317,False,False,False,False,False,False,Enseignement supérieur et recherche.
+18-168319,False,False,True,False,False,False,
+18-168321,False,False,False,False,False,False,Office Public de l'Habitat
+18-168322,False,False,True,False,False,False,
+18-168325,False,False,False,False,False,False,Établissement de santé
+18-168326,False,False,True,False,False,False,
+18-168327,False,False,True,False,False,False,
+18-168328,True,False,False,False,False,False,
+18-168336,False,False,False,False,True,False,
+18-168338,False,False,False,False,True,False,
+18-168340,False,False,False,False,True,False,
+18-168342,False,False,False,False,True,False,
+18-168343,False,False,True,False,False,False,
+18-168346,False,False,True,False,False,False,
+18-168348,False,False,True,False,False,False,
+18-168352,False,False,True,False,False,False,
+18-168353,False,False,True,False,False,False,
+18-168354,False,False,True,False,False,False,
+18-168359,False,False,True,False,False,False,
+18-168362,False,False,False,False,True,False,
+18-168363,False,False,False,False,True,False,
+18-168366,False,False,True,False,False,False,
+18-168373,False,False,True,False,False,False,
+18-168375,False,False,False,False,True,False,
+18-168381,False,False,True,False,False,False,
+18-168387,False,False,False,False,True,False,
+18-168388,False,False,True,False,False,False,
+18-168402,False,False,False,False,False,False,Etablissement Public de coopération intercommunale
+18-168405,False,False,False,False,False,False,Groupement de Coopération Sanitaire
+18-168406,False,False,False,False,True,False,
+18-168414,False,False,False,False,True,False,
+18-168415,False,False,False,False,True,False,
+18-168416,False,False,False,False,True,False,
+18-168417,False,False,False,False,True,False,
+18-168419,False,False,False,False,False,False,Etablissement de santé publique
+18-168420,False,False,False,True,False,False,
+18-168422,False,False,True,False,False,False,
+18-168424,True,False,False,False,False,False,
+18-168425,False,False,False,False,True,False,
+18-168427,False,False,True,False,False,False,
+18-168428,False,False,True,False,False,False,
+18-168435,False,False,True,False,False,False,
+18-168436,False,False,True,False,False,False,
+18-168438,False,False,True,False,False,False,
+18-168451,False,False,True,False,False,False,
+18-168454,False,False,True,False,False,False,
+18-168457,False,False,True,False,False,False,
+18-168458,False,False,False,False,False,False,Etablissement public de santé
+18-168461,False,False,True,False,False,False,
+18-168466,False,False,False,False,True,False,
+18-168468,False,False,True,False,False,False,
+18-168469,False,False,False,False,True,False,
+18-168473,False,False,False,False,False,False,Collectivité
+18-168474,False,False,False,False,False,False,Autre
+18-168481,True,False,False,False,False,False,
+18-168483,False,False,True,False,False,False,
+18-168489,True,False,False,False,False,False,
+18-168491,False,False,True,False,False,False,
+18-168494,False,False,True,False,False,False,
+18-168504,False,False,False,False,False,False,Santé
+18-168505,False,False,True,False,False,False,
+18-168509,False,False,False,False,False,False,EPSCP
+18-168512,False,False,False,False,True,False,
+18-168514,True,False,False,False,False,False,
+18-168517,False,False,False,False,True,False,
+18-168519,False,False,True,False,False,False,
+18-168520,False,False,True,False,False,False,
+18-168528,False,False,True,False,False,False,
+18-168533,True,False,False,False,False,False,
+18-168542,False,False,False,False,True,False,
+18-168544,False,False,False,False,True,False,
+18-168548,False,False,False,False,True,False,
+18-168549,False,False,True,False,False,False,
+18-168550,False,False,False,False,False,False,SPL d'aménagement et d'urbanisme
+18-168554,False,False,True,False,False,False,
+18-168555,True,False,False,False,False,False,
+18-168561,False,False,False,False,False,False,Association
+18-168565,True,False,False,False,False,False,
+18-168570,False,False,False,False,True,False,
+18-168571,False,False,False,False,False,False,CHU
+18-168572,False,False,True,False,False,False,
+18-168575,True,False,False,False,False,False,
+18-168576,True,False,False,False,False,False,
+18-168577,False,False,False,True,False,False,
+18-168579,False,False,False,False,True,False,
+18-168580,False,False,False,False,False,False,Comité des pêches
+18-168581,False,False,True,False,False,False,
+18-168583,False,False,False,False,False,False,Etablissement public
+18-168585,False,False,True,False,False,False,
+18-168587,False,False,True,False,False,False,
+18-168592,False,False,False,False,False,False,Syndicat
+18-168595,False,False,True,False,False,False,
+18-168599,False,False,True,False,False,False,
+18-168601,False,False,True,False,False,False,
+18-168606,False,False,True,False,False,False,
+18-168610,False,False,True,False,False,False,
+18-168611,False,False,True,False,False,False,
+18-168614,False,False,True,False,False,False,
+18-168616,True,False,False,False,False,False,
+18-168618,False,False,False,False,False,False,Société anonyme deconomie mixte
+18-168620,False,False,True,False,False,False,
+18-168621,False,False,False,False,True,False,
+18-168622,False,False,False,False,False,False,Etablissement public
+18-168627,False,False,True,False,False,False,
+18-168639,False,False,True,False,False,False,
+18-168641,False,False,True,False,False,False,
+18-168643,False,False,False,False,True,False,
+18-168650,False,False,True,False,False,False,
+18-168655,False,False,True,False,False,False,
+18-168657,False,False,True,False,False,False,
+18-168658,False,False,False,False,True,False,
+18-168659,False,False,True,False,False,False,
+18-168662,True,False,False,False,False,False,
+18-168667,True,False,False,False,False,False,
+18-168668,True,False,False,False,False,False,
+18-168670,False,False,True,False,False,False,
+18-168672,False,False,True,False,False,False,
+18-168684,False,False,False,False,True,False,
+18-168685,False,False,False,False,True,False,
+18-168686,False,False,True,False,False,False,
+18-168688,False,False,True,False,False,False,
+18-168694,False,False,True,False,False,False,
+18-168698,False,False,False,False,False,False,Interprofession
+18-168699,False,False,False,False,False,False,Portage foncier
+18-168701,False,False,True,False,False,False,
+18-168703,False,False,True,False,False,False,
+18-168711,False,False,False,False,True,False,
+18-168716,False,False,False,False,False,False,Commune
+18-168718,False,False,True,False,False,False,
+18-168723,True,False,False,False,False,False,
+18-168724,False,False,True,False,False,False,
+18-168725,False,False,False,False,True,False,
+18-168726,False,False,False,False,True,False,
+18-168729,False,False,True,False,False,False,
+18-168731,False,False,False,False,False,False,Communauté d'Agglomération
+18-168733,False,False,False,False,False,False,Établissement public administratif
+18-168734,False,False,False,False,True,False,
+18-168739,False,False,False,True,False,False,
+18-168742,False,False,False,False,False,False,Santé
+18-168746,False,False,False,False,True,False,
+18-168756,False,False,False,False,False,False,INTERPROFESSION
+18-168757,False,False,True,False,False,False,
+18-168764,False,False,True,False,False,False,
+18-168765,False,False,True,False,False,False,
+18-168768,True,False,False,False,False,False,
+18-168771,False,False,False,False,False,False,Organisme de Sécurité Sociale
+18-168773,False,False,True,False,False,False,
+18-168774,False,False,False,False,False,False,Établissement public à caractère scientifique et culturel
+18-168775,True,False,False,False,False,False,
+18-168786,False,False,False,False,True,False,
+18-168787,False,False,True,False,False,False,
+18-168793,False,False,False,False,False,False,Protection sociale
+18-168794,False,False,False,False,False,False,INTERPROFESSION
+18-168796,True,False,False,False,False,False,
+18-168798,False,False,True,False,False,False,
+18-168800,False,False,True,False,False,False,
+18-168801,False,False,False,False,False,False,Communauté de Communes
+18-168802,False,False,True,False,False,False,
+18-168804,False,False,False,False,False,False,Société publique locale
+18-168807,True,False,False,False,False,False,
+18-168809,True,False,False,False,False,False,
+18-168812,False,False,False,False,False,False,Santé
+18-168820,False,False,False,False,False,False,Etablissement public de santé
+18-168821,False,False,False,False,False,False,Etablissement de Santé Publique
+18-168823,False,False,True,False,False,False,
+18-168825,False,False,False,True,False,False,
+18-168826,False,False,True,False,False,False,
+18-168827,False,False,False,True,False,False,
+18-168828,False,False,False,False,True,False,
+18-168830,False,False,False,False,False,False,Etablissement Public de santé
+18-168834,False,False,True,False,False,False,
+18-168835,True,False,False,False,False,False,
+18-168836,False,False,False,False,True,False,
+18-168839,False,False,True,False,False,False,
+18-168841,False,False,False,False,False,False,Groupement de Coopération Sanitaire
+18-168845,False,False,False,False,True,False,
+18-168848,True,False,False,False,False,False,
+18-168852,False,False,True,False,False,False,
+18-168853,False,False,True,False,False,False,
+18-168854,False,False,True,False,False,False,
+18-168855,True,False,False,False,False,False,
+18-168857,False,False,True,False,False,False,
+18-168859,False,False,False,False,True,False,
+18-168860,False,False,False,False,False,False,INTERPROFESSION
+18-168862,False,False,True,False,False,False,
+18-168863,False,False,True,False,False,False,
+18-168864,False,False,False,False,False,False,Etablissement Public de santé
+18-168867,False,False,False,False,True,False,
+18-168868,False,False,True,False,False,False,
+18-168870,False,False,True,False,False,False,
+18-168871,True,False,False,False,False,False,
+18-168872,False,False,False,False,True,False,
+18-168873,False,False,True,False,False,False,
+18-168874,False,False,False,False,False,False,Etablissement Public de santé
+18-168875,False,False,False,False,True,False,
+18-168877,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+18-168879,False,False,True,False,False,False,
+18-168881,False,False,False,True,False,False,
+18-168883,False,False,False,False,True,False,
+18-168887,False,False,False,False,True,False,
+18-168888,False,False,True,False,False,False,
+18-168891,False,False,False,False,True,False,
+18-168892,False,False,True,False,False,False,
+18-168894,False,False,False,False,False,False,Centre Hospitalier
+18-168899,False,False,False,False,True,False,
+18-168900,False,False,False,False,True,False,
+18-168901,False,False,False,False,False,False,SANTE
+18-168904,False,False,False,False,True,False,
+18-168906,False,False,False,True,False,False,
+18-168907,False,False,True,False,False,False,
+18-168910,True,False,False,False,False,False,
+18-168914,False,False,True,False,False,False,
+18-168918,False,False,True,False,False,False,
+18-168922,False,False,True,False,False,False,
+18-168927,False,False,True,False,False,False,
+18-168928,False,False,False,False,True,False,
+18-168930,False,False,False,False,True,False,
+18-168932,False,False,False,False,False,False,Association issue de groupe de protection sociale
+18-168934,False,False,True,False,False,False,
+18-168935,False,False,False,False,False,False,autre
+18-168939,False,False,True,False,False,False,
+18-168944,False,False,False,False,False,False,autre
+18-168951,False,False,False,False,True,False,
+18-168952,False,False,False,False,False,False,organisme de securite sociale
+18-168953,False,False,True,False,False,False,
+18-168956,False,False,True,False,False,False,
+18-168957,False,False,True,False,False,False,
+18-168958,False,False,False,False,False,False,SAEM
+18-168959,False,False,True,False,False,False,
+18-168960,False,False,True,False,False,False,
+18-168961,True,False,False,False,False,False,
+18-168965,False,False,True,False,False,False,
+18-168966,False,False,False,False,False,False,organisme de securite sociale
+18-168967,False,False,True,False,False,False,
+18-168968,False,False,True,False,False,False,
+18-168976,False,False,True,False,False,False,
+18-168979,False,False,True,False,False,False,
+18-168981,False,True,False,False,False,False,
+18-168982,False,False,True,False,False,False,
+18-168983,True,False,False,False,False,False,
+18-168984,False,False,False,False,True,False,
+18-168989,False,False,True,False,False,False,
+18-168995,False,False,True,False,False,False,
+18-168999,False,False,True,False,False,False,
+18-169000,False,False,False,False,True,False,
+18-169002,False,False,True,False,False,False,
+18-169003,True,False,False,False,False,False,
+18-169004,True,False,False,False,False,False,
+18-169006,False,False,True,False,False,False,
+18-169007,False,False,True,False,False,False,
+18-169012,False,False,True,False,False,False,
+18-169021,False,False,False,False,True,False,
+18-169023,True,False,False,False,False,False,
+18-169027,False,False,True,False,False,False,
+18-169031,False,False,False,False,False,False,commune
+18-169033,False,False,False,False,False,False,caisse de retraite
+18-169043,False,False,False,True,False,False,
+18-169044,False,False,False,False,True,False,
+18-169046,False,False,True,False,False,False,
+18-169047,False,False,True,False,False,False,
+18-169054,False,False,True,False,False,False,
+18-169056,False,False,False,False,False,False,Etablissement public de santé
+18-169061,False,False,False,False,True,False,
+18-169063,False,False,True,False,False,False,
+18-169064,False,False,True,False,False,False,
+18-169066,False,False,False,False,True,False,
+18-169070,False,False,True,False,False,False,
+18-169079,False,False,True,False,False,False,
+18-169082,False,False,False,False,True,False,
+18-169083,True,False,False,False,False,False,
+18-169089,False,False,True,False,False,False,
+18-169091,False,False,True,False,False,False,
+18-169098,False,False,False,False,False,False,Mandataire de maîtrise d'ouvrage
+18-169100,False,False,True,False,False,False,
+18-169123,True,False,False,False,False,False,
+18-169124,False,False,True,False,False,False,
+18-169125,True,False,False,False,False,False,
+18-169134,True,False,False,False,False,False,
+18-169137,True,False,False,False,False,False,
+18-169138,False,False,False,False,False,False,Établissement public administratif
+18-169148,False,False,False,False,True,False,
+18-169149,False,False,False,False,True,False,
+18-169150,False,False,False,False,True,False,
+18-169151,False,False,True,False,False,False,
+18-169157,False,False,False,False,True,False,
+18-169159,False,False,False,False,False,False,Protection sociale
+18-169160,False,False,False,False,False,False,Organisme privé chargé d'un service public
+18-169161,False,False,False,False,False,False,Groupement d'Intérêt Public
+18-169162,False,False,False,False,True,False,
+18-169167,False,False,True,False,False,False,
+18-169171,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+18-169178,False,False,True,False,False,False,
+18-169185,False,False,False,False,True,False,
+18-169189,False,True,False,False,False,False,
+18-169197,True,False,False,False,False,False,
+18-169200,False,False,False,False,False,True,
+18-169204,True,False,False,False,False,False,
+18-169208,False,False,False,False,True,False,
+18-169210,False,False,False,False,False,False,Prestations familiales
+18-169212,False,False,False,False,False,False,Etablissement Public de Coopération intercommunale
+18-169213,True,False,False,False,False,False,
+18-169217,False,False,False,False,True,False,
+18-169222,False,False,False,True,False,False,
+18-169230,True,False,False,False,False,False,
+18-169233,False,False,True,False,False,False,
+18-169236,False,False,True,False,False,False,
+18-169237,False,False,True,False,False,False,
+18-169242,False,False,False,False,False,False,collectivité à statut particulier
+18-169243,False,False,False,True,False,False,
+18-169246,False,False,True,False,False,False,
+18-169249,False,False,False,False,True,False,
+18-169250,False,False,False,False,True,False,
+18-169256,False,False,True,False,False,False,
+18-169261,False,False,True,False,False,False,
+18-169262,False,False,False,False,True,False,
+18-169263,False,False,True,False,False,False,
+18-169265,False,False,True,False,False,False,
+18-169266,False,False,False,False,True,False,
+18-169269,False,False,True,False,False,False,
+18-169275,False,False,False,False,True,False,
+18-169284,False,False,False,False,False,False,COLLECTIVITE TERRITORIALE
+18-169286,False,False,True,False,False,False,
+18-169288,False,False,False,True,False,False,
+18-169293,False,False,False,False,True,False,
+18-169294,False,False,True,False,False,False,
+18-169297,False,False,False,False,False,False,Etablissement Public de Santé (EPS)
+18-169302,True,False,False,False,False,False,
+18-169304,False,False,False,False,True,False,
+18-169306,False,False,False,False,True,False,
+18-169309,False,False,True,False,False,False,
+18-169315,False,False,False,False,True,False,
+18-169317,False,False,False,False,True,False,
+18-169318,False,False,True,False,False,False,
+18-169323,False,False,False,False,True,False,
+18-169329,False,False,True,False,False,False,
+18-169330,False,False,False,False,True,False,
+18-169331,True,False,False,False,False,False,
+18-169335,False,False,True,False,False,False,
+18-169337,False,False,True,False,False,False,
+18-169340,False,False,True,False,False,False,
+18-169342,False,False,True,False,False,False,
+18-169343,False,False,False,False,True,False,
+18-169344,True,False,False,False,False,False,
+18-169347,False,False,False,False,False,False,EPSCP
+18-169348,False,False,True,False,False,False,
+18-169352,False,False,False,False,False,False,Organisme de droit privé
+18-169353,False,False,True,False,False,False,
+18-169354,False,False,False,True,False,False,
+18-169356,False,False,False,False,False,False,établissement public scientifique culturel et professionnel
+18-169357,False,False,False,False,False,False,EPSCP
+18-169358,False,False,False,False,True,False,
+18-169360,False,False,False,False,True,False,
+18-169362,False,False,False,False,True,False,
+18-169366,False,False,True,False,False,False,
+18-169367,False,False,True,False,False,False,
+18-169368,False,False,False,False,True,False,
+18-169374,False,False,False,False,True,False,
+18-169377,False,False,True,False,False,False,
+18-169381,False,False,True,False,False,False,
+18-169385,False,False,False,False,False,False,Etablissement Public de Coopération intercommunale
+18-169386,False,False,False,False,True,False,
+18-169388,False,False,True,False,False,False,
+18-169390,False,False,False,False,True,False,
+18-169392,False,False,False,False,False,False,comité d'action sociale
+18-169401,False,False,False,False,True,False,
+18-169407,False,False,True,False,False,False,
+18-169408,False,False,True,False,False,False,
+18-169411,False,False,True,False,False,False,
+18-169416,False,False,False,False,True,False,
+18-169417,False,False,False,False,True,False,
+18-169420,False,False,False,False,False,False,autre
+18-169422,False,False,True,False,False,False,
+18-169425,False,False,True,False,False,False,
+18-169426,False,False,False,False,False,False,Association syndicale Autorisée
+18-169427,False,False,False,False,True,False,
+18-169432,True,False,False,False,False,False,
+18-169439,False,False,True,False,False,False,
+18-169441,False,False,False,False,False,False,Sécurité Sociale
+18-169442,True,False,False,False,False,False,
+18-169450,False,False,False,False,True,False,
+18-169454,False,False,True,False,False,False,
+18-169456,False,False,False,False,False,False,etablissement public de santé
+18-169458,False,False,False,False,False,False,etablissements publics de santé
+18-169464,False,True,False,False,False,False,
+18-169465,False,False,False,False,False,False,Etablissement public de santé
+18-169471,False,False,False,False,False,False,Etablissement public de santé
+18-169474,False,False,False,False,False,False,ASSOCIATION
+18-169476,False,False,True,False,False,False,
+18-169478,False,False,False,False,True,False,
+18-169482,False,False,False,False,False,False,santé
+18-169489,False,False,False,False,False,False,Etablissement Public de Santé
+18-169490,False,False,True,False,False,False,
+18-169493,False,False,False,False,False,False,Etablissement Public de Santé
+18-169500,False,False,False,True,False,False,
+18-169503,False,False,True,False,False,False,
+18-169505,False,False,True,False,False,False,
+18-169508,False,False,False,False,True,False,
+18-169512,False,False,False,False,True,False,
+18-169514,False,False,True,False,False,False,
+18-169517,False,False,False,False,False,False,centre hospitalier
+18-169518,False,False,False,False,False,False,systèmes d'information en santé et télémédecine
+18-169523,False,False,True,False,False,False,
+18-169526,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+18-169529,False,False,True,False,False,False,
+18-169534,True,False,False,False,False,False,
+18-169537,False,False,True,False,False,False,
+18-169538,False,False,True,False,False,False,
+18-169539,False,False,False,False,True,False,
+18-169540,False,False,False,False,True,False,
+18-169542,False,False,True,False,False,False,
+18-169548,False,False,True,False,False,False,
+18-169549,False,False,True,False,False,False,
+18-169550,False,False,True,False,False,False,
+18-169551,False,False,True,False,False,False,
+18-169553,False,False,False,False,False,False,Etablissement public territorial
+18-169559,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+18-169560,False,False,True,False,False,False,
+18-169563,False,False,True,False,False,False,
+18-169568,False,False,False,False,True,False,
+18-169569,False,False,True,False,False,False,
+18-169570,False,False,False,False,True,False,
+18-169577,False,False,True,False,False,False,
+18-169578,False,False,True,False,False,False,
+18-169580,False,False,True,False,False,False,
+18-169584,False,False,True,False,False,False,
+18-169585,False,False,False,False,True,False,
+18-169586,False,False,True,False,False,False,
+18-169588,False,False,True,False,False,False,
+18-169589,False,False,False,False,False,False,Etablissement Public de santé
+18-169591,False,False,False,False,False,False,Établissement public national à caractère scientifique culturel et professionnel
+18-169597,True,False,False,False,False,False,
+18-169598,False,False,False,False,False,False,SA d'HLM
+18-169600,False,False,True,False,False,False,
+18-169603,True,False,False,False,False,False,
+18-169606,False,False,True,False,False,False,
+18-169607,False,False,False,False,True,False,
+18-169608,False,False,False,False,True,False,
+18-169610,False,False,False,False,False,False,Etablissement public de santé
+18-169611,False,False,False,False,False,False,Lorient Agglomération
+18-169612,False,False,True,False,False,False,
+18-169616,False,False,False,False,False,False,Logement social
+18-169621,False,False,False,True,False,False,
+18-169623,True,False,False,False,False,False,
+18-169625,False,False,False,False,True,False,
+18-169626,True,False,False,False,False,False,
+18-169627,False,False,True,False,False,False,
+18-169631,False,False,True,False,False,False,
+18-169634,False,False,True,False,False,False,
+18-169635,False,False,True,False,False,False,
+18-169637,False,False,False,False,False,False,Etablissement de santé
+18-169638,False,False,True,False,False,False,
+18-169640,False,False,True,False,False,False,
+18-169646,False,False,False,False,True,False,
+18-169653,False,False,True,False,False,False,
+18-169654,False,False,False,False,False,False,Syndicat mixte fermé à vocation unique
+18-169659,False,False,False,False,True,False,
+18-169660,True,False,False,False,False,False,
+18-169662,False,False,True,False,False,False,
+18-169666,False,False,True,False,False,False,
+18-169669,False,False,True,False,False,False,
+18-169670,False,False,True,False,False,False,
+18-169671,False,False,False,False,True,False,
+18-169672,False,False,False,False,False,False,Établissement public de santé
+18-169673,False,False,True,False,False,False,
+18-169674,False,False,True,False,False,False,
+18-169675,False,False,False,False,True,False,
+18-169677,False,False,True,False,False,False,
+18-169678,False,False,True,False,False,False,
+18-169680,False,False,False,False,True,False,
+18-169682,False,False,False,False,True,False,
+18-169685,True,False,False,False,False,False,
+18-169687,False,False,False,False,True,False,
+18-169688,False,False,True,False,False,False,
+18-169690,False,False,True,False,False,False,
+18-169692,False,False,True,False,False,False,
+18-169693,False,False,True,False,False,False,
+18-169694,False,False,False,False,True,False,
+18-169696,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+18-169697,False,False,False,False,True,False,
+18-169698,False,False,True,False,False,False,
+18-169699,False,False,False,False,True,False,
+18-169703,False,False,True,False,False,False,
+18-169706,False,False,False,False,False,False,amp;eacute;tablissement public mamp;eacute;dico-social
+18-169709,True,False,False,False,False,False,
+18-169714,False,False,False,False,True,False,
+18-169715,False,False,False,False,True,False,
+18-169721,False,False,True,False,False,False,
+18-169724,False,False,False,False,False,False,Etablissement public administratif
+18-169725,False,False,False,False,False,False,autre
+18-169735,False,False,True,False,False,False,
+18-169736,False,False,True,False,False,False,
+18-169739,False,False,True,False,False,False,
+18-169740,False,False,True,False,False,False,
+18-169747,False,False,True,False,False,False,
+18-169748,False,False,True,False,False,False,
+18-169749,True,False,False,False,False,False,
+18-169750,False,False,True,False,False,False,
+18-169751,False,False,False,False,True,False,
+18-169755,False,False,False,False,True,False,
+18-169756,False,False,False,False,False,False,Ciommune
+18-169759,True,False,False,False,False,False,
+18-169760,True,False,False,False,False,False,
+18-169768,False,False,True,False,False,False,
+18-169769,False,False,False,False,False,False,EPCI
+18-169770,False,False,True,False,False,False,
+18-169772,False,False,False,False,True,False,
+18-169773,False,False,True,False,False,False,
+18-169774,False,False,False,False,True,False,
+18-169779,False,False,True,False,False,False,
+18-169782,False,False,False,False,False,False,Commune
+18-169783,False,False,False,False,True,False,
+18-169785,False,False,False,False,True,False,
+18-169787,False,False,False,False,True,False,
+18-169797,False,False,False,False,True,False,
+18-169798,False,False,False,False,True,False,
+18-169808,False,False,True,False,False,False,
+18-169814,False,False,False,True,False,False,
+18-169820,False,False,False,False,False,False,Etablissement Public Médico Social
+18-169834,False,False,False,False,True,False,
+18-169840,False,False,True,False,False,False,
+18-169841,False,False,True,False,False,False,
+18-169842,False,False,False,False,False,False,groupe Hospitalier
+18-169853,False,False,False,False,True,False,
+18-169855,False,False,False,False,True,False,
+18-169856,False,False,True,False,False,False,
+18-169857,False,False,False,False,False,False,Société d'economie mixte
+18-169861,False,False,False,False,True,False,
+18-169869,False,False,True,False,False,False,
+18-169872,False,False,False,False,False,False,collectivité locale
+18-169875,False,False,True,False,False,False,
+18-169880,False,False,False,False,False,False,Collectivité territoriale à statut particulier
+18-169884,False,False,False,False,True,False,
+18-169887,False,False,False,True,False,False,
+18-169890,False,False,True,False,False,False,
+18-169893,False,False,False,False,False,False,EPLE
+18-169894,False,False,True,False,False,False,
+18-169896,False,False,True,False,False,False,
+18-169898,False,False,True,False,False,False,
+18-169899,False,False,True,False,False,False,
+18-169909,False,False,False,False,True,False,
+18-169910,True,False,False,False,False,False,
+18-169912,False,False,False,False,True,False,
+18-169913,False,False,False,False,False,False,Chambre de Commerce et d'Industrie de Vaucluse
+18-169915,False,False,True,False,False,False,
+18-169917,False,False,False,False,True,False,
+18-169921,False,False,False,False,False,False,Assistance Publique des Hôpitaux de Paris Hôpital Lariboisière
+18-169927,False,False,False,False,False,False,Régie personnalisée à caractère administratif
+18-169929,False,False,False,False,False,False,Santé
+18-169930,False,False,False,False,True,False,
+18-169932,False,False,True,False,False,False,
+18-169933,False,False,False,False,True,False,
+18-169938,False,False,True,False,False,False,
+18-169939,False,False,True,False,False,False,
+18-169941,False,False,True,False,False,False,
+18-169945,True,False,False,False,False,False,
+18-169948,False,False,True,False,False,False,
+18-169949,False,False,True,False,False,False,
+18-169951,False,False,False,False,False,False,EPCI
+18-169952,False,False,False,False,False,False,EPCI
+18-169954,False,False,True,False,False,False,
+18-169960,False,False,True,False,False,False,
+18-169964,False,False,True,False,False,False,
+18-169965,False,False,False,False,True,False,
+18-169968,False,False,False,False,True,False,
+18-169969,False,False,False,False,True,False,
+18-169974,False,False,False,False,True,False,
+18-169975,False,False,False,False,True,False,
+18-169976,False,False,True,False,False,False,
+18-169979,False,False,True,False,False,False,
+18-169980,False,False,False,False,True,False,
+18-169982,False,False,True,False,False,False,
+18-169988,False,False,False,False,False,False,Groupement d'intérêt public
+18-169989,False,False,True,False,False,False,
+18-169998,False,False,False,False,False,False,collectivité territoriale
+18-170003,False,False,True,False,False,False,
+18-170004,False,False,True,False,False,False,
+18-170007,False,False,True,False,False,False,
+18-170009,False,False,True,False,False,False,
+18-170012,False,False,False,False,True,False,
+18-170014,False,False,True,False,False,False,
+18-170015,False,False,True,False,False,False,
+18-170016,True,False,False,False,False,False,
+18-170023,False,False,False,False,False,False,etablissement public de santé
+18-170026,False,False,True,False,False,False,
+18-170029,False,False,True,False,False,False,
+18-170030,False,False,True,False,False,False,
+18-170032,False,False,False,False,True,False,
+18-170035,False,False,False,False,True,False,
+18-170045,False,False,True,False,False,False,
+18-170051,True,False,False,False,False,False,
+18-170053,False,False,False,False,False,False,Santé
+18-170057,False,False,True,False,False,False,
+18-170059,False,False,False,False,True,False,
+18-170060,False,False,False,False,True,False,
+18-170061,True,False,False,False,False,False,
+18-170066,False,False,False,True,False,False,
+18-170068,False,False,False,True,False,False,
+18-170075,False,False,True,False,False,False,
+18-170082,False,False,True,False,False,False,
+18-170085,True,False,False,False,False,False,
+18-170090,False,False,False,False,False,False,Santé
+18-170095,False,False,False,False,True,False,
+18-170099,True,False,False,False,False,False,
+18-170103,False,False,False,False,False,False,santé
+18-170104,False,False,True,False,False,False,
+18-170105,False,False,True,False,False,False,
+18-170106,False,False,True,False,False,False,
+18-170109,False,False,True,False,False,False,
+18-170110,False,False,True,False,False,False,
+18-170111,False,False,True,False,False,False,
+18-170117,False,False,False,False,True,False,
+18-170125,False,False,True,False,False,False,
+18-170126,True,False,False,False,False,False,
+18-170128,True,False,False,False,False,False,
+18-170134,True,False,False,False,False,False,
+18-170135,False,False,True,False,False,False,
+18-170140,False,False,True,False,False,False,
+18-170144,False,False,False,False,True,False,
+18-170145,False,False,True,False,False,False,
+18-170148,False,False,False,False,True,False,
+18-170149,True,False,False,False,False,False,
+18-170150,False,False,False,False,False,False,GIE informatique
+18-170151,False,False,False,False,True,False,
+18-170152,False,False,True,False,False,False,
+18-170153,False,False,False,False,True,False,
+18-170156,False,False,True,False,False,False,
+18-170158,False,False,False,False,False,False,COMMUNE
+18-170171,False,False,True,False,False,False,
+18-170175,False,False,False,True,False,False,
+18-170177,False,False,False,False,False,False,Collectivité Territoriale
+18-170179,False,False,True,False,False,False,
+18-170193,False,False,True,False,False,False,
+18-170197,False,False,False,False,False,False,Organisme de santé
+18-170199,True,False,False,False,False,False,
+18-170200,False,False,False,False,True,False,
+18-170202,False,False,False,False,True,False,
+18-170203,False,False,False,False,False,False,Etablissement de santé
+18-170205,False,False,False,False,True,False,
+18-170206,False,False,True,False,False,False,
+18-170207,False,False,False,False,False,False,SCP HLM
+18-170208,False,False,True,False,False,False,
+18-170209,False,False,True,False,False,False,
+18-170210,False,False,False,False,False,False,Recouvrement
+18-170215,False,False,True,False,False,False,
+18-170219,False,False,False,True,False,False,
+18-170224,False,False,True,False,False,False,
+18-170225,False,False,False,False,True,False,
+18-170226,False,False,True,False,False,False,
+18-170227,False,False,True,False,False,False,
+18-170230,False,False,False,False,False,False,OPH
+18-170231,False,False,True,False,False,False,
+18-170234,False,False,True,False,False,False,
+18-170236,False,False,False,False,True,False,
+18-170238,True,False,False,False,False,False,
+18-170241,True,False,False,False,False,False,
+18-170242,False,False,True,False,False,False,
+18-170243,False,False,False,False,True,False,
+18-170246,False,False,True,False,False,False,
+18-170253,False,False,False,False,False,False,EPS
+18-170255,False,False,True,False,False,False,
+18-170257,False,False,False,False,True,False,
+18-170260,False,False,False,False,True,False,
+18-170262,False,False,False,False,False,False,Etablissement Public de Coopération intercommunale
+18-170268,False,False,False,False,True,False,
+18-170269,False,False,True,False,False,False,
+18-170273,False,False,True,False,False,False,
+18-170277,False,False,True,False,False,False,
+18-170278,False,False,False,False,False,False,"Aménagement, construction, promotion immobilière"
+18-170280,False,False,False,False,True,False,
+18-170288,False,False,True,False,False,False,
+18-170292,False,False,True,False,False,False,
+18-170295,False,False,True,False,False,False,
+18-170298,False,False,True,False,False,False,
+18-170301,False,False,True,False,False,False,
+18-170307,False,False,False,False,True,False,
+18-170310,False,False,False,False,True,False,
+18-170312,False,False,False,False,True,False,
+18-170317,False,False,False,False,True,False,
+18-170320,False,False,False,False,False,False,Mairie
+18-170321,False,False,True,False,False,False,
+18-170325,False,False,False,False,False,False,Agence nationale de santé constituée sous la forme d'un groupement d'intérêt public
+18-170336,False,False,False,False,True,False,
+18-170338,False,True,False,False,False,False,
+18-170343,False,False,True,False,False,False,
+18-170344,False,False,False,False,True,False,
+18-170345,False,False,False,False,False,False,Établissement régional de santé
+18-170348,False,False,False,False,False,False,Communauté de communes
+18-170349,False,False,False,False,False,False,Collectivité territoriale
+18-170350,False,False,True,False,False,False,
+18-170351,False,False,True,False,False,False,
+18-170354,False,False,True,False,False,False,
+18-170356,False,False,True,False,False,False,
+18-170358,True,False,False,False,False,False,
+18-170359,False,False,False,False,True,False,
+18-170360,False,False,False,False,False,False,Commune
+18-170361,False,False,True,False,False,False,
+18-170362,True,False,False,False,False,False,
+18-170363,False,False,False,False,True,False,
+18-170370,False,False,True,False,False,False,
+18-170371,False,False,False,False,True,False,
+18-170373,False,False,True,False,False,False,
+18-170374,False,False,False,False,True,False,
+18-170376,False,False,True,False,False,False,
+18-170380,False,False,False,False,True,False,
+18-170382,False,False,False,False,True,False,
+18-170385,False,False,False,False,False,False,Union des caisses nationales de Sécurité sociale-centrale d'achats
+18-170390,False,False,False,False,True,False,
+18-170391,False,False,False,False,False,False,syndicat mixte ouvert
+18-170392,False,False,False,False,True,False,
+18-170394,False,False,True,False,False,False,
+18-170398,False,False,True,False,False,False,
+18-170399,False,False,False,False,False,False,Syndicat mixte
+18-170410,False,False,False,False,True,False,
+18-170416,False,False,True,False,False,False,
+18-170420,False,False,True,False,False,False,
+18-170421,False,False,False,False,False,False,Etablissement public départemental
+18-170426,False,False,True,False,False,False,
+18-170428,False,False,False,False,False,False,autre
+18-170431,False,False,False,False,False,False,Formation professionnelle des agents publics territoriaux
+18-170432,False,False,True,False,False,False,
+18-170433,False,False,False,False,False,False,"Établissement Public à Caractère Scientifique, Culturel et Professionnel"
+18-170434,False,False,True,False,False,False,
+18-170438,False,False,False,False,True,False,
+18-170439,False,False,True,False,False,False,
+18-170440,False,False,False,False,False,False,Etablissement de santé
+18-170441,False,False,True,False,False,False,
+18-170442,False,False,False,False,True,False,
+18-170444,False,False,False,False,True,False,
+18-170448,False,False,True,False,False,False,
+18-170449,False,False,False,False,False,False,autre
+18-170450,False,False,True,False,False,False,
+18-170452,False,False,True,False,False,False,
+18-170453,False,False,False,False,True,False,
+18-170454,False,False,False,False,True,False,
+18-170456,False,False,True,False,False,False,
+18-170461,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale (EPCI)
+18-170504,False,False,True,False,False,False,
+18-170505,False,False,True,False,False,False,
+18-170506,False,False,True,False,False,False,
+18-170507,False,False,False,False,True,False,
+18-170512,False,False,False,False,True,False,
+18-170515,False,False,True,False,False,False,
+18-170518,False,False,False,False,True,False,
+18-170533,True,False,False,False,False,False,
+18-170535,False,False,False,False,False,False,espic
+18-170538,False,False,True,False,False,False,
+18-170542,False,False,True,False,False,False,
+18-170544,False,False,True,False,False,False,
+18-170545,False,False,False,False,False,False,Société Publique Locale
+18-170548,False,False,False,False,True,False,
+18-170549,False,False,False,False,True,False,
+18-170553,False,False,False,False,False,False,Etablissement public de santé
+18-170559,False,False,True,False,False,False,
+18-170561,True,False,False,False,False,False,
+18-170563,False,False,True,False,False,False,
+18-170564,True,False,False,False,False,False,
+18-170565,False,False,False,False,True,False,
+18-170568,False,False,True,False,False,False,
+18-170574,False,False,True,False,False,False,
+18-170575,False,False,False,False,False,False,Etablissement Public à caractère Scientifique Culturel et Professionnel
+18-170576,False,False,True,False,False,False,
+18-170578,False,False,False,False,True,False,
+18-170579,False,False,False,False,False,False,CHU de Lille
+18-170583,False,False,True,False,False,False,
+18-170584,False,False,False,False,True,False,
+18-170586,False,False,True,False,False,False,
+18-170591,True,False,False,False,False,False,
+18-170593,False,False,False,False,True,False,
+18-170596,True,False,False,False,False,False,
+18-170597,False,False,False,False,False,False,Etablissement public de santé
+18-170601,False,False,True,False,False,False,
+18-170605,False,False,False,False,False,False,Enseignement supérieur et recherche
+18-170607,False,False,True,False,False,False,
+18-170611,False,False,True,False,False,False,
+18-170617,False,False,True,False,False,False,
+18-170621,True,False,False,False,False,False,
+18-170622,False,False,True,False,False,False,
+18-170626,True,False,False,False,False,False,
+18-170627,True,False,False,False,False,False,
+18-170635,False,False,False,False,False,False,Société d'économie mixte
+18-170638,False,False,False,False,True,False,
+18-170643,False,False,False,False,True,False,
+18-170644,False,False,False,False,True,False,
+18-170652,False,False,True,False,False,False,
+18-170654,False,False,True,False,False,False,
+18-170658,False,False,True,False,False,False,
+18-170660,True,False,False,False,False,False,
+18-170662,False,False,False,False,False,False,Etablissement public à caractère industriel et commercial
+18-170665,True,False,False,False,False,False,
+18-170666,False,False,True,False,False,False,
+18-170672,False,False,True,False,False,False,
+18-170676,True,False,False,False,False,False,
+18-170678,False,False,False,False,False,False,collectivité locale
+18-170680,False,False,False,False,True,False,
+18-170686,False,False,True,False,False,False,
+18-170689,False,False,True,False,False,False,
+18-170690,False,False,True,False,False,False,
+18-170695,True,False,False,False,False,False,
+18-170697,False,False,True,False,False,False,
+18-170698,True,False,False,False,False,False,
+18-170702,False,False,False,False,False,False,Association de dialyse
+18-170706,False,False,False,True,False,False,
+18-170711,False,False,False,False,True,False,
+18-170714,False,False,True,False,False,False,
+18-170716,False,False,True,False,False,False,
+18-170719,False,False,False,False,True,False,
+18-170722,False,False,False,False,True,False,
+18-170727,False,False,False,False,False,False,Santé
+18-170729,False,False,False,False,True,False,
+18-170730,False,False,False,False,False,False,autre
+18-170731,False,False,True,False,False,False,
+18-170734,False,False,False,False,False,False,autre
+18-170737,False,False,True,False,False,False,
+18-170738,False,False,False,False,True,False,
+18-170748,False,False,True,False,False,False,
+18-170752,True,False,False,False,False,False,
+18-170753,False,False,True,False,False,False,
+18-170755,False,False,True,False,False,False,
+18-170757,False,False,False,False,True,False,
+18-170759,False,False,False,False,True,False,
+18-170760,False,False,True,False,False,False,
+18-170762,False,False,True,False,False,False,
+18-170766,False,False,False,False,True,False,
+18-170769,False,False,True,False,False,False,
+18-170775,False,False,True,False,False,False,
+18-170776,False,False,False,False,True,False,
+18-170777,True,False,False,False,False,False,
+18-170781,False,False,True,False,False,False,
+18-170784,False,False,False,False,True,False,
+18-170785,False,False,True,False,False,False,
+18-170786,False,False,True,False,False,False,
+18-170788,False,False,False,False,True,False,
+18-170789,False,False,False,False,False,False,Etablissement Public de Santé
+18-170790,False,False,False,False,True,False,
+18-170792,False,False,True,False,False,False,
+18-170797,False,False,True,False,False,False,
+18-170801,False,False,False,False,False,False,collectivité territoriale
+18-170802,False,False,True,False,False,False,
+18-170805,False,False,True,False,False,False,
+18-170809,False,False,False,False,True,False,
+18-170817,False,False,True,False,False,False,
+18-170819,True,False,False,False,False,False,
+18-170821,False,False,True,False,False,False,
+18-170826,False,False,True,False,False,False,
+18-170836,False,False,False,False,True,False,
+18-170837,False,True,False,False,False,False,
+18-170838,False,False,True,False,False,False,
+18-170841,False,False,True,False,False,False,
+18-170842,False,False,True,False,False,False,
+18-170843,False,False,True,False,False,False,
+18-170844,False,False,True,False,False,False,
+18-170847,False,False,True,False,False,False,
+18-170848,False,False,True,False,False,False,
+18-170849,False,False,False,False,False,False,Centre Hospitalier
+18-170854,False,False,True,False,False,False,
+18-170855,False,False,True,False,False,False,
+18-170856,False,False,True,False,False,False,
+18-170858,False,False,True,False,False,False,
+18-170860,False,False,False,False,True,False,
+18-170870,False,False,False,False,True,False,
+18-170874,False,False,False,False,False,False,Etablissement public de santé
+18-170876,False,False,True,False,False,False,
+18-170879,False,False,False,False,False,False,Commune
+18-170880,True,False,False,False,False,False,
+18-170881,False,False,True,False,False,False,
+18-170886,False,False,False,False,False,False,Organisme consulaire
+18-170890,False,False,False,False,True,False,
+18-170892,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+18-170895,False,False,False,True,False,False,
+18-170896,False,False,True,False,False,False,
+18-170898,False,False,False,False,True,False,
+18-170904,False,False,False,True,False,False,
+18-170905,False,False,False,False,False,False,Organisme de Protection Sociale
+18-170908,False,False,False,False,False,False,Santé
+18-170910,False,False,True,False,False,False,
+18-170914,False,False,False,False,False,False,autre
+18-170917,False,False,False,False,True,False,
+18-170921,False,False,True,False,False,False,
+18-170925,False,False,False,False,True,False,
+18-170927,False,False,False,False,True,False,
+18-170930,False,False,True,False,False,False,
+18-170932,False,False,True,False,False,False,
+18-170933,False,False,True,False,False,False,
+18-170934,True,False,False,False,False,False,
+18-170935,False,False,False,False,True,False,
+18-170936,False,False,True,False,False,False,
+18-170937,False,False,True,False,False,False,
+18-170938,False,False,False,False,False,False,préfecture du Haut-Rhin
+18-170940,False,False,False,False,True,False,
+18-170941,False,False,True,False,False,False,
+18-170942,False,False,False,False,True,False,
+18-170943,False,False,True,False,False,False,
+18-170945,False,False,False,False,True,False,
+18-170949,False,False,True,False,False,False,
+18-170954,False,False,False,False,False,False,Etablissement public de santé
+18-170960,False,False,False,False,False,False,EPCI
+18-170969,False,False,True,False,False,False,
+18-170975,False,True,False,False,False,False,
+18-170976,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+18-170977,False,False,False,False,False,False,Etablissement public hospitalier
+18-170978,False,False,False,False,False,False,Organisme consulaire
+18-170980,False,False,True,False,False,False,
+18-170987,True,False,False,False,False,False,
+18-170989,True,False,False,False,False,False,
+18-170990,False,False,False,False,True,False,
+18-170991,False,False,True,False,False,False,
+18-170994,False,False,False,True,False,False,
+18-170995,False,False,True,False,False,False,
+18-171002,True,False,False,False,False,False,
+18-171003,False,False,True,False,False,False,
+18-171004,False,False,False,False,True,False,
+18-171005,False,False,True,False,False,False,
+18-171006,False,False,True,False,False,False,
+18-171007,False,False,True,False,False,False,
+18-171011,False,False,True,False,False,False,
+18-171013,False,False,True,False,False,False,
+18-171016,False,False,False,False,True,False,
+18-171018,False,False,True,False,False,False,
+18-171021,False,False,False,False,True,False,
+18-171034,False,False,True,False,False,False,
+18-171035,False,False,False,True,False,False,
+18-171038,False,False,True,False,False,False,
+18-171039,False,False,True,False,False,False,
+18-171042,False,False,True,False,False,False,
+18-171043,False,False,True,False,False,False,
+18-171045,True,False,False,False,False,False,
+18-171047,False,False,True,False,False,False,
+18-171049,False,False,False,False,False,False,EPIC
+18-171053,False,False,False,False,True,False,
+18-171055,False,False,False,False,True,False,
+18-171060,False,False,True,False,False,False,
+18-171061,False,False,True,False,False,False,
+18-171064,False,False,False,False,True,False,
+18-171067,False,False,True,False,False,False,
+18-171069,True,False,False,False,False,False,
+18-171070,False,False,False,False,False,False,Etablissement public administratif
+18-171071,False,False,False,False,True,False,
+18-171075,False,False,False,False,True,False,
+18-171080,False,False,False,False,False,False,Aménagement du territoire
+18-171081,False,False,False,False,True,False,
+18-171082,False,False,True,False,False,False,
+18-171084,False,False,False,False,True,False,
+18-171087,False,False,False,False,True,False,
+18-171091,False,False,True,False,False,False,
+18-171094,False,False,False,False,True,False,
+18-171097,True,False,False,False,False,False,
+18-171100,False,False,False,False,False,False,organisme privé de gestion d'établissements sanitaires et médico sociaux de la Sécurité Sociale.
+18-171101,False,False,True,False,False,False,
+18-171104,False,False,False,False,False,False,SAEML
+18-171108,False,False,True,False,False,False,
+18-171109,False,False,False,False,True,False,
+18-171112,False,False,False,False,True,False,
+18-171118,False,False,True,False,False,False,
+18-171119,False,False,True,False,False,False,
+18-171120,True,False,False,False,False,False,
+18-171122,False,False,False,False,True,False,
+18-171124,False,False,True,False,False,False,
+18-171125,False,False,True,False,False,False,
+18-171129,False,False,True,False,False,False,
+18-171132,False,False,False,False,True,False,
+18-171133,False,False,False,False,True,False,
+18-171146,False,False,False,False,False,False,autre
+18-171147,False,False,False,False,True,False,
+18-171151,False,False,True,False,False,False,
+18-171153,False,False,True,False,False,False,
+18-171154,False,False,True,False,False,False,
+18-171156,False,False,False,False,False,False,Etablissement Public
+18-171157,False,False,False,False,False,False,Protection sociale
+18-171159,False,False,False,False,False,False,Immobilier et Aménagement
+18-171168,False,False,False,False,False,False,syndicat mixte
+18-171169,True,False,False,False,False,False,
+18-171170,False,False,False,False,True,False,
+18-171171,False,False,False,False,True,False,
+18-171173,False,False,True,False,False,False,
+18-171174,False,False,True,False,False,False,
+18-171175,False,False,True,False,False,False,
+18-171176,False,False,False,False,False,False,Concessionnaire autoroutier
+18-171177,False,False,True,False,False,False,
+18-171180,False,False,True,False,False,False,
+18-171182,False,False,False,False,True,False,
+18-171184,True,False,False,False,False,False,
+18-171185,False,False,True,False,False,False,
+18-171186,False,False,False,False,True,False,
+18-171195,False,False,False,False,False,False,organisme privé chargé d'une mission de service public (sécurité sociale)
+18-171197,False,False,True,False,False,False,
+18-171200,False,False,False,False,False,False,logements et équipements collectifs
+18-171201,False,False,False,False,True,False,
+18-171204,False,False,True,False,False,False,
+18-171206,False,False,True,False,False,False,
+18-171207,False,False,False,True,False,False,
+18-171219,False,False,False,False,True,False,
+18-171221,False,False,True,False,False,False,
+18-171222,False,False,False,False,False,False,Société d'économie mixte
+18-171223,False,False,True,False,False,False,
+18-171226,False,False,False,False,False,False,Santé
+18-171234,False,False,False,False,True,False,
+18-171241,True,False,False,False,False,False,
+18-171246,False,False,True,False,False,False,
+18-171247,False,False,False,False,True,False,
+18-171257,False,False,True,False,False,False,
+18-171258,False,False,False,False,True,False,
+18-171260,False,False,False,False,False,False,autre
+18-171261,False,False,True,False,False,False,
+18-171266,False,False,True,False,False,False,
+18-171273,False,False,True,False,False,False,
+18-171274,False,False,False,False,True,False,
+18-171275,False,False,False,False,False,False,sem
+18-171285,False,False,False,False,False,False,ASSOCIATION LOI 1901
+18-171290,False,False,True,False,False,False,
+18-171299,False,False,True,False,False,False,
+18-171325,False,False,True,False,False,False,
+18-171327,False,False,True,False,False,False,
+18-171351,False,False,False,False,False,False,Collectivité territoriale Entité adjudicatrice opérateur de réseau d'eau potable
+18-171380,False,False,False,False,True,False,
+18-171383,False,False,False,False,False,False,Collectivité territoriale à statut particulier
+18-171385,False,False,False,False,True,False,
+18-171395,False,False,False,False,True,False,
+18-171396,False,False,False,False,True,False,
+18-171399,True,False,False,False,False,False,
+18-171400,True,False,False,False,False,False,
+18-171401,False,False,False,False,False,False,interprofession agricole
+18-171402,True,False,False,False,False,False,
+18-171417,True,False,False,False,False,False,
+18-171421,False,False,True,False,False,False,
+18-171422,False,False,True,False,False,False,
+18-171423,False,False,False,False,False,False,interprofession agricole
+18-171426,False,False,False,False,True,False,
+18-171430,False,False,True,False,False,False,
+18-171433,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+18-171436,False,False,False,False,True,False,
+18-171437,False,False,False,False,False,False,interprofession agricole
+18-171438,False,False,True,False,False,False,
+18-171441,False,False,False,False,True,False,
+18-171444,False,False,True,False,False,False,
+18-171445,False,False,True,False,False,False,
+18-171447,False,False,False,False,True,False,
+18-171448,False,False,True,False,False,False,
+18-171455,False,False,False,False,False,False,établissement public local
+18-171457,False,False,False,False,True,False,
+18-171467,False,False,True,False,False,False,
+18-171472,False,False,True,False,False,False,
+18-171473,False,False,True,False,False,False,
+18-171481,False,False,False,False,True,False,
+18-171482,False,False,True,False,False,False,
+18-171484,True,False,False,False,False,False,
+18-171488,False,False,True,False,False,False,
+18-171491,False,False,False,False,True,False,
+18-171492,False,False,False,False,False,False,"Etablissement public à caractère scientifique, culturel et professionnel (EPSCP)"
+18-171493,False,False,False,False,False,False,Syndicat Mixte de Transport et de Traitement des Déchets Ménagers de Lorraine Nord
+18-171494,False,False,False,False,True,False,
+18-171495,False,False,True,False,False,False,
+18-171496,False,False,True,False,False,False,
+18-171501,False,False,True,False,False,False,
+18-171503,False,False,True,False,False,False,
+18-171504,False,False,True,False,False,False,
+18-171505,False,False,False,False,True,False,
+18-171510,False,False,True,False,False,False,
+18-171511,False,False,True,False,False,False,
+18-171516,False,False,True,False,False,False,
+18-171522,False,False,False,False,True,False,
+18-171527,False,False,False,False,True,False,
+18-171529,False,False,True,False,False,False,
+18-171531,True,False,False,False,False,False,
+18-171534,False,False,True,False,False,False,
+18-171535,False,False,False,False,False,False,EPCI
+18-171536,False,False,False,True,False,False,
+18-171538,False,False,True,False,False,False,
+18-171539,False,False,False,False,True,False,
+18-171541,False,False,False,False,True,False,
+18-171542,True,False,False,False,False,False,
+18-171546,False,False,False,False,True,False,
+18-171548,False,False,False,False,False,False,Organisme de Sécurité Sociale
+18-171549,False,False,False,False,False,False,"Établissement public à caractère scientifique, culturel et professionnel"
+18-171551,False,False,True,False,False,False,
+18-171554,False,False,False,False,False,False,SEMTO
+18-171555,False,False,True,False,False,False,
+18-171557,False,False,False,False,True,False,
+18-171559,False,False,True,False,False,False,
+18-171560,False,False,True,False,False,False,
+18-171563,False,False,True,False,False,False,
+18-171564,True,False,False,False,False,False,
+18-171567,False,False,True,False,False,False,
+18-171578,False,False,False,False,True,False,
+18-171579,False,False,True,False,False,False,
+18-171588,False,False,False,False,True,False,
+18-171589,False,False,False,False,False,False,SPL
+18-171590,False,False,True,False,False,False,
+18-171592,True,False,False,False,False,False,
+18-171593,False,False,False,False,True,False,
+18-171594,False,True,False,False,False,False,
+18-171595,False,False,True,False,False,False,
+18-171598,True,False,False,False,False,False,
+18-171599,False,False,False,False,True,False,
+18-171601,False,False,False,False,True,False,
+18-171602,False,False,False,False,True,False,
+18-171605,True,False,False,False,False,False,
+18-171607,True,False,False,False,False,False,
+18-171611,False,False,False,False,True,False,
+18-171617,False,False,True,False,False,False,
+18-171619,False,False,False,True,False,False,
+18-171620,False,False,True,False,False,False,
+18-171622,False,False,True,False,False,False,
+18-171624,False,False,False,True,False,False,
+18-171629,False,False,False,False,True,False,
+18-171633,False,False,False,False,True,False,
+18-171638,False,False,False,False,True,False,
+18-171639,False,False,True,False,False,False,
+18-171640,False,False,True,False,False,False,
+18-171643,False,False,True,False,False,False,
+18-171648,False,False,True,False,False,False,
+18-171651,False,False,False,False,True,False,
+18-171652,False,False,True,False,False,False,
+18-171661,False,False,True,False,False,False,
+18-171662,False,False,True,False,False,False,
+18-171663,False,False,True,False,False,False,
+18-171668,False,False,False,False,True,False,
+18-171670,False,False,False,False,True,False,
+18-171671,False,False,False,False,True,False,
+18-171675,False,False,False,False,False,False,Société par actions simplifiée à actionnariat intégralement public
+18-171676,False,False,False,False,False,False,santé
+18-171677,False,False,False,False,True,False,
+18-171678,False,False,False,False,False,False,etablissement public
+18-171679,True,False,False,False,False,False,
+18-171681,False,False,False,False,False,False,EPSCP
+18-171683,False,False,False,False,False,False,Etablissement médico-social
+18-171684,False,False,False,False,False,False,Assemblée parlementaire
+18-171689,False,False,True,False,False,False,
+18-171696,False,False,True,False,False,False,
+18-171698,False,False,False,False,False,False,GEIE
+18-171699,False,False,True,False,False,False,
+18-171700,True,False,False,False,False,False,
+18-171702,False,False,True,False,False,False,
+18-171703,False,False,True,False,False,False,
+18-171707,False,False,True,False,False,False,
+18-171711,False,False,False,False,False,False,organisme de sécurité sociale
+18-171712,False,False,True,False,False,False,
+18-171715,False,False,True,False,False,False,
+18-171717,False,False,False,False,False,False,SCIC HLM
+18-171718,False,False,False,False,False,False,CHU
+18-171724,True,False,False,False,False,False,
+18-171726,False,False,True,False,False,False,
+18-171729,False,False,False,False,True,False,
+18-171730,False,False,True,False,False,False,
+18-171731,False,False,False,False,True,False,
+18-171735,False,False,False,False,True,False,
+18-171741,False,False,False,False,False,False,Assemblée parlementaire
+18-171743,False,False,False,False,True,False,
+18-171746,False,False,True,False,False,False,
+18-171747,False,False,True,False,False,False,
+18-171751,False,False,True,False,False,False,
+18-171752,False,False,False,False,True,False,
+18-171756,True,False,False,False,False,False,
+18-171761,False,False,False,False,False,False,Etablissement Public de Santé
+18-171763,True,False,False,False,False,False,
+18-171765,False,False,False,False,False,False,Logements et équipements collectifs
+18-171767,False,False,True,False,False,False,
+18-171769,False,False,False,False,True,False,
+18-171775,False,False,False,False,False,False,Environnement
+18-171776,False,False,False,False,False,False,"Établissement public à caractère scientifique, culturel et professionnel"
+18-171777,False,False,False,False,True,False,
+18-171778,False,False,True,False,False,False,
+18-171779,True,False,False,False,False,False,
+18-171783,False,False,True,False,False,False,
+18-171784,False,False,True,False,False,False,
+18-171785,False,False,True,False,False,False,
+18-171787,False,False,True,False,False,False,
+18-171788,False,False,True,False,False,False,
+18-171794,False,False,False,False,True,False,
+18-171797,False,False,False,False,False,False,Fondation de coopération scientifique Recherche et développement en biotechnologies
+18-171800,True,False,False,False,False,False,
+18-171807,False,False,False,False,False,False,Établissements publics de santé
+18-171810,False,False,False,False,True,False,
+18-171814,False,False,False,False,False,False,EPIC
+18-171817,False,False,False,False,True,False,
+18-171820,False,False,True,False,False,False,
+18-171828,False,False,False,False,False,False,Etablissement public de santé
+18-171829,False,False,True,False,False,False,
+18-171831,False,True,False,False,False,False,
+18-171834,False,False,False,False,False,False,autre
+18-171837,False,False,False,False,False,False,autre
+18-171840,False,False,False,False,True,False,
+18-171844,False,False,True,False,False,False,
+18-171848,False,False,False,False,True,False,
+18-171849,False,False,True,False,False,False,
+18-171854,False,False,True,False,False,False,
+18-171855,False,False,True,False,False,False,
+18-171858,False,False,True,False,False,False,
+18-171859,False,False,False,False,True,False,
+18-171861,False,False,False,False,False,False,Groupement de commandes
+18-171862,False,False,True,False,False,False,
+18-171863,False,False,False,False,False,False,Accès aux soins
+18-171864,False,True,False,False,False,False,
+18-171881,False,False,False,False,False,False,établissement public local
+18-171885,False,False,False,False,False,False,Société Publique Locale
+18-171886,False,False,False,False,False,False,établissement public local
+18-171888,False,False,True,False,False,False,
+18-171889,True,False,False,False,False,False,
+18-171892,False,False,False,False,True,False,
+18-171901,False,False,False,False,True,False,
+18-171902,False,False,False,False,False,False,Assemblée parlementaire
+18-171903,False,False,False,False,True,False,
+18-171907,False,False,False,False,True,False,
+18-171910,False,False,True,False,False,False,
+18-171911,False,False,False,False,True,False,
+18-171913,False,False,True,False,False,False,
+18-171918,False,False,False,False,False,False,Etablissement public administratif
+18-171919,False,False,True,False,False,False,
+18-171920,False,False,True,False,False,False,
+18-171921,False,False,False,False,True,False,
+18-171922,True,False,False,False,False,False,
+18-171923,False,False,True,False,False,False,
+18-171929,False,False,False,False,False,False,Etablissement public local
+18-171934,False,False,True,False,False,False,
+18-171935,True,False,False,False,False,False,
+18-171937,False,False,True,False,False,False,
+18-171938,False,False,False,False,True,False,
+18-171939,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+18-171940,False,False,False,False,True,False,
+18-171941,False,False,True,False,False,False,
+18-171943,False,False,True,False,False,False,
+18-171945,False,False,True,False,False,False,
+18-171953,False,False,True,False,False,False,
+18-171954,True,False,False,False,False,False,
+18-171962,False,False,True,False,False,False,
+18-171963,True,False,False,False,False,False,
+18-171964,False,False,True,False,False,False,
+18-171967,False,False,False,False,True,False,
+18-171973,False,False,False,False,True,False,
+18-171975,False,False,False,False,False,False,EPCI
+18-171980,False,False,False,False,False,False,EPCI
+18-171981,True,False,False,False,False,False,
+18-171982,False,False,True,False,False,False,
+18-171984,False,False,True,False,False,False,
+18-171987,True,False,False,False,False,False,
+18-171988,False,False,False,False,False,False,SA D HLM LE COTTAGE SOVIAL DES FLANDRES
+18-171989,False,False,False,False,True,False,
+18-171993,False,False,True,False,False,False,
+18-171994,False,False,True,False,False,False,
+18-171996,False,False,True,False,False,False,
+18-172004,False,False,True,False,False,False,
+18-172006,False,False,False,False,False,False,EPCC Musée du Louvre-Lens
+18-172007,True,False,False,False,False,False,
+18-172008,False,False,False,False,True,False,
+18-172010,False,False,False,False,False,False,Etablissement privé gérant une mission de service public
+18-172011,False,False,True,False,False,False,
+18-172015,False,False,True,False,False,False,
+18-172016,False,False,True,False,False,False,
+18-172017,True,False,False,False,False,False,
+18-172021,False,False,False,False,False,False,Enseignement supérieur
+18-172025,False,False,False,False,False,False,Société d'Economie Mixte
+18-172026,False,False,False,False,True,False,
+18-172028,False,False,False,False,False,False,Service d'incendie et de secours
+18-172030,False,False,False,False,True,False,
+18-172032,False,False,True,False,False,False,
+18-172033,False,False,True,False,False,False,
+18-172042,False,False,False,False,True,False,
+18-172046,False,False,True,False,False,False,
+18-172048,False,False,True,False,False,False,
+18-172049,False,False,True,False,False,False,
+18-172050,False,False,True,False,False,False,
+18-172053,False,False,False,False,False,False,Organisme privé de sécurité sociale
+18-172057,False,False,True,False,False,False,
+18-172058,False,False,False,False,False,False,Organisme privé de sécurité sociale
+18-172059,False,False,True,False,False,False,
+18-172060,False,False,False,False,True,False,
+18-172062,False,False,False,False,True,False,
+18-172063,False,False,False,False,True,False,
+18-172067,False,False,False,False,True,False,
+18-172068,False,False,True,False,False,False,
+18-172073,False,False,False,False,False,False,Collecte et traitement des ordures ménagères et assimilés
+18-172075,False,False,True,False,False,False,
+18-172076,False,False,False,False,False,False,Etablissement public hospitalier
+18-172078,False,False,True,False,False,False,
+18-172079,False,False,False,False,False,False,groupement de commande
+18-172080,False,False,True,False,False,False,
+18-172081,False,False,True,False,False,False,
+18-172087,False,False,False,False,True,False,
+18-172088,False,False,True,False,False,False,
+18-172089,False,False,True,False,False,False,
+18-172090,False,False,False,False,True,False,
+18-172093,False,False,False,False,True,False,
+18-172095,False,False,True,False,False,False,
+18-172097,False,False,False,False,False,False,Etablissement public autonome
+18-172100,False,False,False,False,True,False,
+18-172102,False,False,True,False,False,False,
+18-172104,True,False,False,False,False,False,
+18-172107,False,False,False,False,True,False,
+18-172118,False,False,True,False,False,False,
+18-172119,False,False,False,False,True,False,
+18-172121,True,False,False,False,False,False,
+18-172123,False,False,False,False,False,False,santé
+18-172125,False,False,False,False,True,False,
+18-172128,False,False,False,False,True,False,
+18-172129,False,False,True,False,False,False,
+18-172134,False,False,False,False,True,False,
+18-172136,True,False,False,False,False,False,
+18-172153,False,False,False,False,True,False,
+18-172159,True,False,False,False,False,False,
+18-172169,False,False,False,False,False,False,CHU
+18-172170,False,False,False,False,True,False,
+18-172172,False,False,False,False,True,False,
+18-172174,False,False,False,False,False,False,syndicat mixte
+18-172175,False,False,False,False,False,False,Etablissement Public administratif
+18-172180,False,False,False,False,False,False,Collectivité territoriale à statut particulier
+18-172185,False,False,True,False,False,False,
+18-172187,True,False,False,False,False,False,
+18-172199,True,False,False,False,False,False,
+18-172202,False,False,False,True,False,False,
+18-172203,True,False,False,False,False,False,
+18-172211,False,False,False,False,False,False,établissement public local
+18-172213,True,False,False,False,False,False,
+18-172214,True,False,False,False,False,False,
+18-172215,False,False,True,False,False,False,
+18-172216,False,False,False,False,True,False,
+18-172220,False,False,False,False,True,False,
+18-172221,False,False,True,False,False,False,
+18-172226,False,False,False,False,True,False,
+18-172247,False,False,False,False,True,False,
+18-172254,True,False,False,False,False,False,
+18-172256,False,False,False,False,True,False,
+18-172258,True,False,False,False,False,False,
+18-172264,False,False,False,False,True,False,
+18-172266,False,False,True,False,False,False,
+18-172267,False,False,True,False,False,False,
+18-172272,False,False,True,False,False,False,
+18-172273,False,False,True,False,False,False,
+18-172275,False,False,True,False,False,False,
+18-172277,False,False,False,False,False,False,Société d'économie Mixte
+18-172284,False,False,False,False,True,False,
+18-172287,True,False,False,False,False,False,
+18-172288,False,False,True,False,False,False,
+18-172289,False,False,True,False,False,False,
+18-172290,False,False,True,False,False,False,
+18-172294,True,False,False,False,False,False,
+18-172295,False,False,True,False,False,False,
+18-172297,False,False,False,False,False,False,Organisme de sécurité sociale
+18-172298,False,False,True,False,False,False,
+18-172299,False,False,True,False,False,False,
+18-172301,False,False,False,False,True,False,
+18-172304,False,False,False,False,False,False,centre hospitalier
+18-172307,False,False,True,False,False,False,
+18-172311,False,False,False,False,False,False,Délégation de service public
+18-172316,False,False,False,False,True,False,
+18-172320,True,False,False,False,False,False,
+18-172322,False,False,False,False,False,False,Communuté d'Agglomération
+18-172323,False,False,False,False,False,False,syndicat mixte
+18-172325,False,False,False,False,True,False,
+18-172327,False,False,False,False,True,False,
+18-172330,False,False,False,False,False,False,GCS
+18-172332,True,False,False,False,False,False,
+18-172333,False,False,True,False,False,False,
+18-172334,False,False,True,False,False,False,
+18-172335,False,False,True,False,False,False,
+18-172337,False,False,False,False,False,False,Etablissement Public de Coopération intercommunale
+18-172343,True,False,False,False,False,False,
+18-172346,False,False,True,False,False,False,
+18-172353,True,False,False,False,False,False,
+18-172357,False,False,False,False,False,False,autre
+18-172363,False,False,True,False,False,False,
+18-172364,False,False,False,False,False,False,Chambre consulaire
+18-172365,False,False,False,False,True,False,
+18-172367,False,False,False,False,True,False,
+18-172371,False,False,False,False,False,False,ETABLISSEMENT DE SANTE PUBLIQUE
+18-172373,True,False,False,False,False,False,
+18-172374,False,False,False,False,True,False,
+18-172378,False,False,False,False,True,False,
+18-172380,False,False,False,False,False,False,"Enseignement supérieur, Recherche et Innovation"
+18-172383,False,False,False,False,False,False,Etablissement medico-social public autonome
+18-172384,False,False,False,False,True,False,
+18-172386,False,False,False,False,False,False,EPS
+18-172387,False,False,True,False,False,False,
+18-172391,False,False,True,False,False,False,
+18-172392,False,False,True,False,False,False,
+18-172394,True,False,False,False,False,False,
+18-172396,False,False,True,False,False,False,
+18-172399,False,False,True,False,False,False,
+18-172402,False,False,False,False,True,False,
+18-172403,False,False,True,False,False,False,
+18-172405,False,False,False,False,False,False,SCCV Société Civile de Construction Vente
+18-172407,False,False,True,False,False,False,
+18-172408,False,False,True,False,False,False,
+18-172409,False,False,False,False,True,False,
+18-172412,False,False,True,False,False,False,
+18-172413,False,False,True,False,False,False,
+18-172416,False,True,False,False,False,False,
+18-172417,False,False,True,False,False,False,
+18-172419,False,False,False,False,False,False,autre
+18-172422,False,False,False,False,False,False,EPCI
+18-172423,False,False,True,False,False,False,
+18-172424,False,False,False,False,False,False,autre
+18-172425,False,False,False,False,True,False,
+18-172426,False,False,True,False,False,False,
+18-172427,False,False,False,False,True,False,
+18-172429,False,False,False,False,False,False,Centre hospitalier
+18-172430,True,False,False,False,False,False,
+18-172435,False,False,True,False,False,False,
+18-172437,False,False,True,False,False,False,
+18-172439,False,False,False,False,True,False,
+18-172441,False,False,False,False,True,False,
+18-172442,False,False,True,False,False,False,
+18-172443,True,False,False,False,False,False,
+18-172446,False,False,True,False,False,False,
+18-172447,False,False,False,False,True,False,
+18-172448,False,False,False,False,True,False,
+18-172451,False,False,False,False,True,False,
+18-172458,False,False,False,False,True,False,
+18-172464,False,False,True,False,False,False,
+18-172467,False,False,True,False,False,False,
+18-172469,False,False,True,False,False,False,
+18-172471,True,False,False,False,False,False,
+18-172472,True,False,False,False,False,False,
+18-172478,False,False,False,False,False,False,Syndicat Mixte
+18-172481,True,False,False,False,False,False,
+18-172482,False,False,True,False,False,False,
+18-172483,False,False,True,False,False,False,
+18-172485,False,False,False,False,False,False,Etablissement public de santé
+18-172486,False,False,False,False,False,False,Hôpitaux
+18-172493,True,False,False,False,False,False,
+18-172503,True,False,False,False,False,False,
+18-172506,False,False,True,False,False,False,
+18-172507,False,False,False,False,True,False,
+18-172509,False,False,False,False,False,False,EPCI
+18-172511,False,False,False,False,False,False,Caisse des écoles
+18-172519,False,False,True,False,False,False,
+18-172525,False,False,True,False,False,False,
+18-172527,False,False,False,False,False,False,Collectivité Territoriale
+18-172528,True,False,False,False,False,False,
+18-172530,False,False,True,False,False,False,
+18-172532,True,False,False,False,False,False,
+18-172534,False,False,False,False,False,False,syndicat mixte ouvert
+18-172536,True,False,False,False,False,False,
+18-172537,True,False,False,False,False,False,
+18-172538,False,False,True,False,False,False,
+18-172539,True,False,False,False,False,False,
+18-172540,False,False,False,False,False,False,Collectivité territoriale
+18-172541,False,False,False,False,True,False,
+18-172542,False,False,False,False,True,False,
+18-172543,False,False,True,False,False,False,
+18-172545,False,False,True,False,False,False,
+18-172546,False,False,True,False,False,False,
+18-172548,False,False,False,False,False,False,Etablissement public de santé
+18-172549,False,False,False,False,True,False,
+18-172556,False,False,True,False,False,False,
+18-172563,False,False,False,False,False,False,Collectivité territoriale à statut particulier
+18-172566,False,False,False,False,True,False,
+18-172572,False,False,False,False,True,False,
+18-172573,False,False,False,False,False,False,Organisme de Sécurité Sociale
+18-172574,True,False,False,False,False,False,
+18-172576,False,False,False,False,False,False,COMMUNE
+18-172577,False,False,False,False,False,False,EPCI
+18-172580,False,False,True,False,False,False,
+18-172581,False,False,True,False,False,False,
+18-172584,False,False,False,False,True,False,
+18-172585,True,False,False,False,False,False,
+18-172586,False,False,True,False,False,False,
+18-172588,False,False,True,False,False,False,
+18-172589,False,False,False,False,True,False,
+18-172595,False,False,False,False,False,False,Etablissement public territorial
+18-172600,False,False,False,False,True,False,
+18-172603,False,False,True,False,False,False,
+18-172604,False,False,True,False,False,False,
+18-172605,False,False,True,False,False,False,
+18-172609,False,False,True,False,False,False,
+18-172611,False,False,False,False,False,False,eptb
+18-172624,False,False,False,False,True,False,
+18-172627,False,False,False,True,False,False,
+18-172630,False,False,True,False,False,False,
+18-172631,False,False,False,False,False,False,Organisme de droit privé (fonds publics) Recherche
+18-172632,False,False,False,False,True,False,
+18-172633,False,False,False,False,False,False,collectivité territoriale
+18-172634,False,False,False,True,False,False,
+18-172635,False,False,False,False,False,False,Société d'économie mixte
+18-172637,False,False,True,False,False,False,
+18-172640,True,False,False,False,False,False,
+18-172641,False,False,True,False,False,False,
+18-172642,False,False,False,False,False,False,Etablissement public rattaché à l'Enseignement supérieur et à la Recherche
+18-172643,False,False,True,False,False,False,
+18-172644,False,False,True,False,False,False,
+18-172648,False,False,True,False,False,False,
+18-172651,False,False,False,False,True,False,
+18-172654,False,False,True,False,False,False,
+18-172661,False,False,False,False,True,False,
+18-172662,False,False,False,False,True,False,
+18-172664,True,False,False,False,False,False,
+18-172665,False,False,True,False,False,False,
+18-172669,False,False,False,False,False,False,Office Public de l'Habitat
+18-172675,False,False,True,False,False,False,
+18-172679,False,False,True,False,False,False,
+18-172695,False,False,True,False,False,False,
+18-172696,False,False,True,False,False,False,
+18-172697,False,False,True,False,False,False,
+18-172704,False,False,True,False,False,False,
+18-172709,False,False,False,False,True,False,
+18-172713,False,False,True,False,False,False,
+18-172716,False,False,False,False,False,False,Société Publique Locale
+18-172719,False,False,False,False,True,False,
+18-172721,False,False,True,False,False,False,
+18-172724,True,False,False,False,False,False,
+18-172726,True,False,False,False,False,False,
+18-172731,False,False,False,False,False,False,Commune
+18-172733,False,False,False,False,False,False,Syndicat Mixte
+18-172736,False,False,True,False,False,False,
+18-172737,False,False,False,False,True,False,
+18-172741,False,False,False,False,True,False,
+18-172744,False,False,False,False,True,False,
+18-172747,False,False,True,False,False,False,
+18-172748,False,False,True,False,False,False,
+18-172749,False,False,False,False,True,False,
+18-172753,False,False,False,False,False,False,Santé
+18-172754,False,False,True,False,False,False,
+18-172757,True,False,False,False,False,False,
+18-172758,True,False,False,False,False,False,
+18-172759,False,False,False,False,True,False,
+18-172763,False,False,True,False,False,False,
+18-172765,False,False,False,False,False,False,Association subventionnée
+18-172767,False,False,True,False,False,False,
+18-172770,False,False,False,False,False,False,EPSCP
+18-172775,False,False,False,False,True,False,
+18-172777,False,False,False,False,True,False,
+18-172778,False,False,False,False,False,False,Etablissement privé mission de service Public
+18-172780,False,False,False,False,False,False,établissement public national
+18-172788,False,False,True,False,False,False,
+18-172791,False,False,True,False,False,False,
+18-172793,False,False,True,False,False,False,
+18-172797,False,False,False,False,True,False,
+18-172798,True,False,False,False,False,False,
+18-172799,False,False,True,False,False,False,
+18-172801,False,False,True,False,False,False,
+18-172803,False,False,False,False,True,False,
+18-172804,False,False,False,False,False,False,EPCI
+18-172805,False,False,False,False,False,False,Etablissement public de santé
+18-172806,False,False,True,False,False,False,
+18-172807,False,False,True,False,False,False,
+18-172813,False,False,True,False,False,False,
+18-172814,False,False,True,False,False,False,
+18-172820,False,False,False,False,False,False,Personne de droit privée assurant une mission de service public
+18-172823,False,False,False,False,False,False,SAEML
+18-172824,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+18-172825,False,False,True,False,False,False,
+18-172827,False,False,False,False,True,False,
+18-172828,False,False,True,False,False,False,
+18-172834,False,False,False,False,False,False,Commune
+18-172835,False,False,True,False,False,False,
+18-172836,False,False,True,False,False,False,
+18-172840,False,False,False,False,False,False,autre
+18-172852,False,False,False,False,True,False,
+18-172854,False,False,False,False,False,False,EPIC
+18-172855,False,False,False,False,True,False,
+18-172857,False,False,False,False,False,False,Etablissement Public National
+18-172861,False,False,True,False,False,False,
+18-172862,False,False,False,False,True,False,
+18-172865,False,False,False,False,True,False,
+18-172867,False,False,True,False,False,False,
+18-172868,False,False,False,False,True,False,
+18-172870,False,False,True,False,False,False,
+18-172876,False,False,True,False,False,False,
+18-172880,False,False,False,True,False,False,
+18-172884,False,False,True,False,False,False,
+18-172886,False,False,False,False,False,False,autre
+18-172900,False,False,True,False,False,False,
+18-172906,False,False,False,False,True,False,
+18-172919,False,False,True,False,False,False,
+18-172928,False,False,False,False,True,False,
+18-172929,False,False,False,False,True,False,
+18-172930,False,False,True,False,False,False,
+18-172932,False,False,True,False,False,False,
+18-172945,False,False,False,False,False,False,Autorité publique indépendante
+18-172947,False,False,True,False,False,False,
+18-172949,False,False,False,False,True,False,
+18-172950,False,False,True,False,False,False,
+18-172955,False,False,False,False,True,False,
+18-172960,False,False,True,False,False,False,
+18-172962,False,False,True,False,False,False,
+18-172963,True,False,False,False,False,False,
+18-172964,False,False,False,False,False,False,Collectivité Territoriale
+18-172965,False,False,False,False,True,False,
+18-172969,True,False,False,False,False,False,
+18-172970,True,False,False,False,False,False,
+18-172971,False,False,False,False,False,False,Syndicat Mixte
+18-172973,True,False,False,False,False,False,
+18-172975,False,False,False,False,False,False,Etablissement public d'aménagement
+18-172978,False,False,True,False,False,False,
+18-172980,False,False,False,False,False,False,assurance maladie
+18-172981,True,False,False,False,False,False,
+18-172983,False,False,True,False,False,False,
+18-172984,False,False,True,False,False,False,
+18-172985,True,False,False,False,False,False,
+18-172988,False,False,False,False,True,False,
+18-172990,False,False,True,False,False,False,
+18-172994,True,False,False,False,False,False,
+18-173000,False,False,True,False,False,False,
+18-173008,False,False,False,False,True,False,
+18-173025,False,False,False,False,False,False,Sécurité sociale
+18-173027,False,False,True,False,False,False,
+18-173031,False,False,True,False,False,False,
+18-173032,False,False,False,False,True,False,
+18-173035,False,False,False,False,False,False,Chambre de Commerce et d'Industrie Régionale
+18-173036,False,False,False,False,True,False,
+18-173040,False,False,False,False,False,False,EPCI
+18-173043,True,False,False,False,False,False,
+18-173044,True,False,False,False,False,False,
+18-173047,False,False,True,False,False,False,
+18-173049,False,False,True,False,False,False,
+18-173053,False,False,False,False,True,False,
+18-173057,False,False,False,False,True,False,
+18-173062,True,False,False,False,False,False,
+18-173066,False,False,True,False,False,False,
+18-173067,False,False,False,False,True,False,
+18-173068,False,False,False,False,True,False,
+18-173069,False,False,False,False,True,False,
+18-173071,False,False,False,False,False,False,Assemblée parlementaire
+18-173074,False,False,True,False,False,False,
+18-173076,True,False,False,False,False,False,
+18-173081,False,False,True,False,False,False,
+18-173082,True,False,False,False,False,False,
+18-173084,False,False,False,False,True,False,
+18-173093,False,False,False,False,True,False,
+18-173095,False,False,False,False,True,False,
+18-173096,False,False,False,True,False,False,
+18-173100,False,False,True,False,False,False,
+18-173103,False,False,True,False,False,False,
+18-173104,False,False,False,False,False,False,autre
+18-173106,False,False,False,False,False,False,organisme de sécurité sociale
+18-173116,False,False,True,False,False,False,
+18-173118,False,False,True,False,False,False,
+18-173120,False,False,True,False,False,False,
+18-173124,False,False,False,False,False,False,SANTE
+18-173127,False,False,True,False,False,False,
+18-173131,False,False,False,False,True,False,
+18-173132,False,False,False,False,True,False,
+18-173133,False,False,True,False,False,False,
+18-173137,False,False,True,False,False,False,
+18-173139,False,False,False,False,True,False,
+18-173140,False,False,False,False,False,False,Etablissement Public de Santé
+18-173141,False,False,False,False,False,False,Etablissement Public de Santé
+18-173142,False,False,True,False,False,False,
+18-173143,False,False,False,False,True,False,
+18-173149,True,False,False,False,False,False,
+18-173151,False,False,False,False,False,False,association loi 1901
+18-173152,False,False,False,False,True,False,
+18-173153,False,False,False,False,True,False,
+18-173157,False,False,True,False,False,False,
+18-173159,False,False,True,False,False,False,
+18-173160,False,False,True,False,False,False,
+18-173165,False,False,True,False,False,False,
+18-173167,False,False,True,False,False,False,
+18-173170,False,False,False,False,True,False,
+18-173172,False,False,True,False,False,False,
+18-173181,False,False,False,False,True,False,
+18-173183,False,False,True,False,False,False,
+18-173185,False,False,False,False,True,False,
+18-173189,False,False,True,False,False,False,
+18-173191,False,False,False,False,True,False,
+18-173193,False,False,False,False,True,False,
+18-173195,False,False,True,False,False,False,
+18-173197,False,False,False,False,False,False,Centre technique industriel
+18-173198,False,False,False,False,True,False,
+18-173199,False,False,True,False,False,False,
+18-173200,False,False,False,False,False,False,Caisse d'Allocations Familiales
+18-173202,False,False,False,False,False,False,Établissement public de coopération intercommunale
+18-173204,True,False,False,False,False,False,
+18-173208,False,False,False,False,True,False,
+18-173209,False,False,False,False,True,False,
+18-173210,False,False,False,False,True,False,
+18-173234,True,False,False,False,False,False,
+18-173237,False,False,False,False,False,False,Régime de Sécurité Sociale
+18-173240,False,False,False,False,True,False,
+18-173249,False,False,True,False,False,False,
+18-173251,False,False,False,False,True,False,
+18-173253,False,False,True,False,False,False,
+18-173255,False,False,False,False,True,False,
+18-173260,False,False,True,False,False,False,
+18-173266,False,False,True,False,False,False,
+18-173267,False,False,False,False,True,False,
+18-173269,False,False,False,False,True,False,
+18-173281,False,False,False,False,True,False,
+18-173282,False,False,True,False,False,False,
+18-173284,False,False,True,False,False,False,
+18-173287,False,False,False,False,True,False,
+18-173291,False,False,True,False,False,False,
+18-173293,True,False,False,False,False,False,
+18-173295,False,False,False,True,False,False,
+18-173301,False,False,False,True,False,False,
+18-173303,False,False,True,False,False,False,
+18-173305,True,False,False,False,False,False,
+18-173306,False,False,True,False,False,False,
+18-173307,False,False,False,False,False,False,Société d'économie mixte
+18-173309,False,False,False,False,True,False,
+18-173313,True,False,False,False,False,False,
+18-173314,True,False,False,False,False,False,
+18-173318,False,False,True,False,False,False,
+18-173321,False,False,False,False,True,False,
+18-173323,False,False,True,False,False,False,
+18-173324,False,False,False,False,False,False,centre hospitalier
+18-173325,False,False,True,False,False,False,
+18-173328,False,False,False,False,True,False,
+18-173329,False,False,True,False,False,False,
+18-173331,False,False,False,False,False,False,EPCI - Communauté de Communes
+18-173332,False,False,False,True,False,False,
+18-173335,False,False,False,False,False,False,organisme privé chargé d'une mission de service public (protection sociale)
+18-173336,False,False,False,False,False,False,Assemblée consultative
+18-173337,False,False,False,False,True,False,
+18-173338,False,False,False,False,True,False,
+18-173341,False,False,True,False,False,False,
+18-173344,False,False,True,False,False,False,
+18-173346,False,False,False,False,False,False,Université
+18-173348,False,False,True,False,False,False,
+18-173357,False,False,False,False,True,False,
+18-173367,False,False,False,False,True,False,
+18-173368,False,False,True,False,False,False,
+18-173370,False,False,False,False,True,False,
+18-173374,False,False,True,False,False,False,
+18-173376,False,False,True,False,False,False,
+18-173378,False,False,False,False,True,False,
+18-173379,False,False,True,False,False,False,
+18-173380,False,False,False,False,False,False,Collectivité territoriale
+18-173383,False,False,False,False,False,False,Etablissement public à caractère industriel et commercial
+18-173384,False,False,False,False,True,False,
+18-173387,False,False,True,False,False,False,
+18-173388,False,False,True,False,False,False,
+18-173392,False,False,True,False,False,False,
+18-173401,False,False,True,False,False,False,
+18-173409,False,False,True,False,False,False,
+18-173411,True,False,False,False,False,False,
+18-173415,False,False,False,False,False,False,autre
+18-173416,False,False,True,False,False,False,
+18-173423,False,False,True,False,False,False,
+18-173424,False,False,True,False,False,False,
+18-173427,False,False,True,False,False,False,
+18-173428,False,False,True,False,False,False,
+18-173431,False,False,True,False,False,False,
+18-173432,False,False,True,False,False,False,
+18-173433,False,False,False,False,True,False,
+18-173437,False,False,False,False,False,False,EPLE
+18-173444,False,False,True,False,False,False,
+18-173449,False,False,False,False,False,False,Commune
+18-173453,False,False,True,False,False,False,
+18-173455,False,False,True,False,False,False,
+18-173457,False,False,True,False,False,False,
+18-173458,False,False,True,False,False,False,
+18-173461,False,False,True,False,False,False,
+18-173463,False,False,True,False,False,False,
+18-173468,False,True,False,False,False,False,
+18-173471,True,False,False,False,False,False,
+18-173474,False,False,False,False,True,False,
+18-173475,False,False,False,False,False,False,société d'économie mixte
+18-173477,False,False,True,False,False,False,
+18-173482,False,False,True,False,False,False,
+18-173483,False,False,True,False,False,False,
+18-173484,False,False,False,False,False,False,autre
+18-173486,False,False,True,False,False,False,
+18-173490,False,False,True,False,False,False,
+18-173495,False,False,True,False,False,False,
+18-173499,False,False,False,False,True,False,
+18-173503,False,False,True,False,False,False,
+18-173508,False,False,False,False,True,False,
+18-173511,False,False,False,False,True,False,
+18-173518,False,False,False,False,False,False,Etablissements publics de santé
+18-173531,False,False,False,False,True,False,
+18-173541,False,False,False,False,False,False,Société d'Economie Mixte
+18-173567,False,False,False,False,False,False,Etablissement Public de coopération intercommunale
+18-173568,True,False,False,False,False,False,
+18-173571,False,False,False,False,False,False,Institution de retraite complémentaire
+18-173573,False,False,True,False,False,False,
+18-173580,False,False,True,False,False,False,
+18-173583,False,False,True,False,False,False,
+18-173586,False,False,True,False,False,False,
+18-173587,False,False,True,False,False,False,
+18-173599,True,False,False,False,False,False,
+18-173604,False,False,True,False,False,False,
+18-173607,False,False,False,False,True,False,
+18-173610,False,False,True,False,False,False,
+18-173614,False,False,False,False,True,False,
+18-173615,False,False,False,False,True,False,
+18-173618,False,False,True,False,False,False,
+18-173619,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+18-173623,True,False,False,False,False,False,
+18-173624,False,False,True,False,False,False,
+18-173630,False,False,True,False,False,False,
+18-173639,False,False,False,False,True,False,
+18-173640,False,False,True,False,False,False,
+18-173641,False,False,True,False,False,False,
+18-173643,True,False,False,False,False,False,
+18-173649,False,False,False,False,True,False,
+18-173650,True,False,False,False,False,False,
+18-173652,False,False,True,False,False,False,
+18-173653,False,False,True,False,False,False,
+18-173658,False,False,False,False,False,False,Etablissement de santé
+18-173659,True,False,False,False,False,False,
+18-173678,False,False,True,False,False,False,
+18-173679,False,False,True,False,False,False,
+18-173681,False,False,True,False,False,False,
+18-173682,False,False,True,False,False,False,
+18-173684,True,False,False,False,False,False,
+18-173692,False,False,False,False,False,False,Société Publique Locale Le pouvoir adjudicateur agit pour le compte de la région Occitanie
+18-173700,False,False,False,False,False,False,Entité adjudicatrice
+18-173710,False,False,False,False,True,False,
+18-173715,False,False,False,False,True,False,
+18-173724,True,False,False,False,False,False,
+18-173729,True,False,False,False,False,False,
+18-173732,False,False,True,False,False,False,
+18-173735,False,False,True,False,False,False,
+18-173736,False,False,True,False,False,False,
+18-173737,False,False,False,False,False,False,"Établissement public de l'État à caractère scientifique, culturel et professionnel"
+18-173740,False,False,True,False,False,False,
+18-173741,False,False,True,False,False,False,
+18-173742,True,False,False,False,False,False,
+18-173743,False,False,True,False,False,False,
+18-173747,False,False,False,False,True,False,
+18-173749,False,False,True,False,False,False,
+18-173752,False,False,False,False,True,False,
+18-173753,False,False,True,False,False,False,
+18-173755,False,False,True,False,False,False,
+18-173767,False,False,True,False,False,False,
+18-173769,False,False,False,False,False,False,autorité locale
+18-173772,False,False,False,False,True,False,
+18-173773,False,False,False,False,True,False,
+18-173775,True,False,False,False,False,False,
+18-173776,True,False,False,False,False,False,
+18-173777,False,False,False,False,True,False,
+18-173779,False,False,True,False,False,False,
+18-173782,False,False,True,False,False,False,
+18-173785,False,False,False,False,False,False,Centre Hospitalier
+18-173787,False,False,False,False,True,False,
+18-173795,False,False,True,False,False,False,
+18-173797,True,False,False,False,False,False,
+18-173798,False,False,False,False,True,False,
+18-173800,True,False,False,False,False,False,
+18-173804,True,False,False,False,False,False,
+18-173810,False,False,True,False,False,False,
+18-173816,False,False,False,False,False,False,Protection sociale
+18-173817,False,False,False,False,False,False,Société Publique Locale (SPL)
+18-173818,False,False,False,False,True,False,
+18-173819,False,False,True,False,False,False,
+18-173820,False,False,True,False,False,False,
+18-173827,False,False,False,False,True,False,
+18-173830,False,False,True,False,False,False,
+18-173832,False,False,True,False,False,False,
+18-173846,False,False,False,False,False,False,Établissement public de santé
+18-173848,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+18-173849,False,False,False,False,False,False,Département de Seine-et-Marne
+18-173850,False,False,False,False,True,False,
+18-173852,False,False,False,False,True,False,
+18-173854,False,False,True,False,False,False,
+18-173857,False,False,False,False,False,False,Assurance maladie
+18-173858,False,False,False,False,False,False,Etablissement Public de Santé
+18-173859,False,False,False,False,True,False,
+18-173860,False,False,True,False,False,False,
+18-173862,False,False,False,False,False,False,autre
+18-173870,False,False,False,False,True,False,
+18-173872,True,False,False,False,False,False,
+18-173876,False,False,False,False,False,False,Assurance maladie
+18-173877,False,False,True,False,False,False,
+18-173879,False,False,True,False,False,False,
+18-173880,False,False,False,False,True,False,
+18-173882,False,False,True,False,False,False,
+18-173883,False,False,True,False,False,False,
+18-173886,False,False,False,False,False,False,centre hospitalier
+18-173887,False,False,True,False,False,False,
+18-173888,False,False,False,False,True,False,
+18-173891,False,False,False,False,True,False,
+18-173901,True,False,False,False,False,False,
+18-173904,False,False,False,False,True,False,
+18-173905,False,False,False,False,True,False,
+18-173917,True,False,False,False,False,False,
+18-173919,False,False,True,False,False,False,
+18-173921,True,False,False,False,False,False,
+18-173925,True,False,False,False,False,False,
+18-173928,True,False,False,False,False,False,
+18-173930,False,False,False,False,True,False,
+18-173931,False,True,False,False,False,False,
+18-173932,False,False,True,False,False,False,
+18-173933,False,False,False,False,True,False,
+18-173934,False,False,False,False,True,False,
+18-173936,False,False,False,False,True,False,
+18-173938,False,False,False,False,False,False,Etablissements publics de santé et établissements sociaux
+18-173941,False,False,True,False,False,False,
+18-173947,False,False,False,False,False,False,Établissement public de santé
+18-173949,False,False,True,False,False,False,
+18-173950,True,False,False,False,False,False,
+18-173954,False,False,False,True,False,False,
+18-173955,False,True,False,False,False,False,
+18-173960,False,False,False,False,False,False,organisme de securite sociale
+18-173961,False,False,True,False,False,False,
+18-173963,False,False,False,False,True,False,
+18-173964,False,True,False,False,False,False,
+18-173968,False,False,True,False,False,False,
+18-173969,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+18-173974,False,False,True,False,False,False,
+18-173975,False,False,False,False,False,False,Santé
+18-173976,False,False,False,False,False,False,Etablissement public de santé
+18-173977,False,False,True,False,False,False,
+18-173979,False,False,False,False,False,False,centre hospitalier
+18-173980,False,False,True,False,False,False,
+18-173986,False,False,False,False,False,False,centre hospitalier
+18-173992,False,False,True,False,False,False,
+18-173993,False,False,True,False,False,False,
+18-173997,False,False,False,False,False,False,Établissement public territorial
+18-174004,False,False,True,False,False,False,
+18-174006,False,False,True,False,False,False,
+18-174007,False,False,True,False,False,False,
+18-174014,False,False,True,False,False,False,
+18-174015,False,False,False,False,True,False,
+18-174018,False,False,False,False,False,False,Commune
+18-174019,False,False,True,False,False,False,
+18-174022,False,False,True,False,False,False,
+18-174030,False,False,True,False,False,False,
+18-174031,False,False,False,False,True,False,
+18-174034,False,False,False,False,False,False,Enseignement supérieur et recherche
+18-174038,False,False,True,False,False,False,
+18-174039,True,False,False,False,False,False,
